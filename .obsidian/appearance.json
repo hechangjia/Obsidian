@@ -1,7 +1,7 @@
 {
   "interfaceFontFamily": "霞鹜文楷 GB",
   "textFontFamily": "霞鹜文楷 GB",
-  "monospaceFontFamily": "霞鹜文楷 GB",
+  "monospaceFontFamily": "Roboto Serif Condensed SemiBold",
   "baseFontSize": 25,
   "accentColor": "#5cf5e3"
 }

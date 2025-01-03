@@ -11,18 +11,51 @@
             "id": "5dc8d3ae97d8db90",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "学期总结大纲.canvas",
+                "viewState": {
+                  "x": -302,
+                  "y": -47,
+                  "zoom": -1.0755873318386668
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "学期总结大纲"
+            }
+          },
+          {
+            "id": "2b025257970d2892",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "010_FileBox/test.md",
+                "file": "010_FileBox/王者荣耀经验总结.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "王者荣耀经验总结"
+            }
+          },
+          {
+            "id": "63699abe3d82de3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "010_FileBox/王者荣耀经验总结.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "王者荣耀经验总结"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,10 +131,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "010_FileBox/test.md"
+                "file": "010_FileBox/王者荣耀经验总结.md"
               },
               "icon": "lucide-list",
-              "title": "test 的大纲"
+              "title": "王者荣耀经验总结 的大纲"
             }
           }
         ]
@@ -220,11 +253,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5dc8d3ae97d8db90",
+  "active": "63699abe3d82de3b",
   "lastOpenFiles": [
+    "010_FileBox/学期总结大纲.md",
+    "王者荣耀经验总结.canvas",
+    "Excalidraw/Drawing 2025-01-02 11.52.16.excalidraw.md",
+    "010_FileBox/王者荣耀经验总结.md",
+    "Excalidraw",
     "学期总结大纲.canvas",
     "010_FileBox/test.md",
-    "010_FileBox/学期总结大纲.md",
     "ReadMe.md",
     "未命名.canvas",
     "寒假计划.md",
