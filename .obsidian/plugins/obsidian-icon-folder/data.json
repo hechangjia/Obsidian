@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAtom",
       "LiApple",
       "LiAlertTriangle"
     ],
@@ -32,5 +33,6 @@
     "useInternalPlugins": false
   },
   "王者荣耀经验总结.canvas": "LiAlertTriangle",
-  "020_Attachment": "LiApple"
+  "020_Attachment": "LiApple",
+  "寒假计划.md": "LiAtom"
 }
