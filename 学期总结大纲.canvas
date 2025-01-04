@@ -1,13 +1,13 @@
 {
 	"nodes":[
 		{"id":"0bfcaf19ea63b10c","type":"text","text":"# 学期总结","x":-1512,"y":-152,"width":241,"height":114,"color":"6"},
-		{"id":"cab8dba00a4be5af","type":"text","text":"## 折腾的一学期\n1. 学期刚开始的时候学习来$\\LaTeX$,大概一个半月的时间都在折腾.\n2. 买了一台新的平板,开始折腾平板上应用\n3. 折腾电子资料(总喜欢收集电子资料🤣)\n4. 折腾软件:捣鼓一些稀奇古怪的软件,虽然事后也没怎么用过.","x":-873,"y":-1096,"width":534,"height":427},
+		{"id":"cab8dba00a4be5af","type":"text","text":"## 折腾的一学期\n1. 学期刚开始的时候学习$\\LaTeX$,大概一个半月的时间都在折腾.\n2. 买了一台新的平板,开始折腾平板上应用\n3. 折腾电子资料(总喜欢收集电子资料🤣)\n4. 折腾软件:捣鼓一些稀奇古怪的软件,虽然事后也没怎么用过.","x":-873,"y":-1096,"width":534,"height":427},
 		{"id":"e8df07fb75813dee","type":"text","text":"## 收获的一学期\n1. 成功拿下一次奖学金\n2. 和好朋友跑了人生第一场马拉松😆\n3. 学习了$\\LaTeX$,Markdown等语法\n4. 成功申请到了Github-Education\n5. 学会使用git,github等版本控制软件,还需要进一步提升.","x":-873,"y":-627,"width":534,"height":394},
-		{"id":"6aa7ff97c36a861d","type":"text","text":"## 遗憾的一学期\n1. 体育,体育课成绩和体测成绩都下滑的很厉害\n2. 专业课没有花相应的时间去学习拓展\n3. 还没有谈恋爱 😔\n4. 没有系统性的去学习某一知识.\n5. 理论知识增长很少.","x":-873,"y":59,"width":534,"height":427},
 		{"id":"f5bbc1e64c4b62f7","type":"text","text":"## 对下学期的展望\n1. 找好自己该走的路,反正照现在这情况来看,肯定是去考研了\n2. $谈次恋爱^{*🤩}_{谈不到就算了 😔}$\n3. 学好理论知识,数学,算法,编程\n4. 进一步熟悉自己的工作流\n5. 熟悉,精通几款软件.","x":-873,"y":575,"width":534,"height":427},
 		{"id":"cd71bd4aebb6194d","type":"text","text":"# 2025 加油干!!!","x":-856,"y":-152,"width":517,"height":127,"color":"6"},
 		{"id":"3c01ebf210bf4ed8","type":"file","file":"020_Attachment/图片/22ADBC6EF3299889AFBC3C2C162AC682.png","x":-339,"y":-25,"width":1247,"height":746},
-		{"id":"d4d29fbaa6b7b9ed","type":"file","file":"020_Attachment/图片/beamer图片1.png","x":-339,"y":-847,"width":1235,"height":695}
+		{"id":"d4d29fbaa6b7b9ed","type":"file","file":"020_Attachment/图片/beamer图片1.png","x":-339,"y":-847,"width":1235,"height":695},
+		{"id":"6aa7ff97c36a861d","type":"text","text":"## 遗憾的一学期\n1. 体育,体育课成绩和体测成绩都下滑的很厉害\n2. 专业课没有花相应的时间去学习拓展\n3. 还没有谈恋爱 😔\n4. 没有系统性的去学习某一知识.\n5. 理论知识增长很少.","x":-856,"y":55,"width":534,"height":427}
 	],
 	"edges":[
 		{"id":"a749a18ab1f04bcc","fromNode":"0bfcaf19ea63b10c","fromSide":"right","toNode":"e8df07fb75813dee","toSide":"left"},
