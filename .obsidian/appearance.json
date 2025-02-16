@@ -4,5 +4,26 @@
   "interfaceFontFamily": "霞鹜文楷 GB",
   "textFontFamily": "霞鹜文楷 GB",
   "monospaceFontFamily": "霞鹜文楷 GB",
-  "baseFontSize": 21
+  "baseFontSize": 21,
+  "enabledCssSnippets": [
+    "【进度颜色】colourful progress bar",
+    "大纲等级符号",
+    "给列表增加动态引线",
+    "从一级标题开始计数",
+    "超长文件名换行",
+    "编辑模式代码块形式行号",
+    "文件大纲显示注释",
+    "为光标所在行添加下划线",
+    "为光标所在行的行号边添加竖线 & 高亮行号",
+    "视窗风格的callout",
+    "使用 Callout 进行正文旁注",
+    "美化代码显示",
+    "文件夹添加图标",
+    "像 VSCode 一样显示搜索替换框",
+    "修复 banner 和 Properties 高度冲突以及多余留白改善",
+    "圆角代码块",
+    "callout气泡样式",
+    "自定义待办图标",
+    "标题&列表&图片美化"
+  ]
 }

@@ -1,0 +1,12 @@
+
+.theme-light {
+  .markdown-source-view.mod-cm6 .cm-line.cm-active{
+    border-bottom: 2px solid #ff0000 !important; /* 下划线 */
+  }
+}
+
+.theme-dark {
+  .markdown-source-view.mod-cm6 .cm-line.cm-active {
+     border-bottom: 2px solid #ffeb3b; /* 下划线 */
+  }
+}

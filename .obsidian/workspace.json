@@ -42,9 +42,19 @@
               "icon": "Memos",
               "title": "Thino"
             }
+          },
+          {
+            "id": "85ee5df83856e042",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,13 +131,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ReadMe.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ReadMe 的大纲"
+              "title": "大纲"
             }
           }
         ]
@@ -235,12 +244,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ReadMe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "ReadMe 的出链列表"
+              "title": "出链"
             }
           }
         ]
@@ -274,46 +282,7 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "floating": {
-    "id": "0b94c283d035dae1",
-    "type": "floating",
-    "children": [
-      {
-        "id": "0eca0d798671045e",
-        "type": "window",
-        "children": [
-          {
-            "id": "3c72579ba21066a3",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "769d7315b0726563",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://pkmer.cn/products/thino/",
-                    "title": "PKMer_社区众筹插件-Thino",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "PKMer_社区众筹插件-Thino"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 384,
-        "y": 152,
-        "width": 1024,
-        "height": 802,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "103ed76908e598d2",
+  "active": "85ee5df83856e042",
   "lastOpenFiles": [
     "ReadMe.md",
     "如梦令--期末.canvas",

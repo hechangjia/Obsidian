@@ -1,0 +1,59 @@
+/* BLOCKQUOTES */
+
+.markdown-preview-view blockquote:before {
+  content: "❝";
+  font-size: 2.5em;
+  margin-right: .05em;
+  line-height: 0.1em;
+  vertical-align: -0.3em;
+}
+
+blockquote p {
+  color: var(--blockquote-border);
+  display: inline;
+}
+
+blockquote em{
+	color: var(--blockquote-border);
+}
+
+.cm-hmd-indent-in-quote {
+  padding-left: 0px;
+}
+
+.markdown-preview-view blockquote {
+  line-height: 1.75em;
+  color: var(--blockquote-border);
+  font-family: var(--default-font);
+  font-style: bold !important;
+  letter-spacing: 0px;
+  border: none;
+  border-left: 0.2rem solid var(--blockquote-border);
+  border-radius: 0px !important;
+  margin: 1.5rem 0rem 1.5rem 0rem;
+  padding-top: 1rem;
+  padding-left: 2rem;
+  padding-bottom: 1rem;
+  background-color: var(--blockquote-bg);
+}
+
+
+/*实时预览模式*/
+.markdown-source-view.mod-cm6.is-live-preview .HyperMD-quote:before,
+.markdown-source-view.mod-cm6 .cm-blockquote-border:before {
+  border-left: none;
+}
+.markdown-source-view.mod-cm6.is-live-preview
+.HyperMD-quote:not(.cm-active) > .cm-formatting.cm-formatting-quote.cm-quote::before {
+  content: "❝";
+  font-size: 2em;
+  position: absolute;
+  margin-left: -0.2em;
+  top:-0.3em;
+}
+.markdown-source-view.mod-cm6.is-live-preview .HyperMD-quote + .HyperMD-quote > .cm-formatting.cm-formatting-quote.cm-quote::before {
+  display: none;
+}
+.markdown-source-view.mod-cm6.is-live-preview .cm-content div.HyperMD-quote .cm-blockquote-border {
+  border: none;
+}
