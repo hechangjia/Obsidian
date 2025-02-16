@@ -8,3 +8,10 @@ $\int_{a}^{b} f(x) dx$
 
 $\int_a^bf(x) dx$
 
+> [!note] 
+> 你好 
+> $$
+> \int_a^bf(x) dx
+> $$
+
+
