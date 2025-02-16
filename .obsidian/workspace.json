@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "1d4d0352edd1114c",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "413ca0f03e7c2608",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "5d00a6640333f0ad",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,30 +29,6 @@
               },
               "icon": "lucide-file",
               "title": "ReadMe"
-            }
-          },
-          {
-            "id": "0f08b1bd711b6865",
-            "type": "leaf",
-            "state": {
-              "type": "planner-release-notes",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Day Planner Release 0.27.0"
-            }
-          },
-          {
-            "id": "e4faf1e5a9929ab3",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.4"
-              },
-              "pinned": true,
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
             }
           }
         ]
@@ -284,10 +260,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "5d00a6640333f0ad",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "010_FileBox/寒假计划.md",
     "ReadMe.md",
+    "010_FileBox/寒假计划.md",
     "学期总结大纲.canvas",
     "如梦令--期末.canvas",
     "Excalidraw/Drawing 2025-01-14 22.18.37.excalidraw.md",
