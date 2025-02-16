@@ -35,5 +35,5 @@
   "sortTasksInPlanAfterEdit": false,
   "firstDayOfWeek": "monday",
   "multiDayRange": "3-days",
-  "showTimeTracker": false
+  "showTimeTracker": true
 }

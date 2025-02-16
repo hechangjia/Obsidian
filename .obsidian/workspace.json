@@ -47,10 +47,24 @@
             "id": "85ee5df83856e042",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ReadMe.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "ReadMe"
             }
           }
         ],
@@ -66,7 +80,7 @@
       {
         "id": "faadbae5acacbc3e",
         "type": "tabs",
-        "dimension": 35.946843853820596,
+        "dimension": 48.82292732855681,
         "children": [
           {
             "id": "d0a5672b0705e32f",
@@ -123,7 +137,7 @@
       {
         "id": "97429477b71a0c47",
         "type": "tabs",
-        "dimension": 64.0531561461794,
+        "dimension": 51.17707267144319,
         "children": [
           {
             "id": "7ff19bd14baff710",
@@ -131,12 +145,38 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "ReadMe.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "ReadMe 的大纲"
+            }
+          },
+          {
+            "id": "6067ebec214db66d",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "429723cf7c66692d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           }
         ]
@@ -152,7 +192,7 @@
       {
         "id": "e14832d8849b281b",
         "type": "tabs",
-        "dimension": 32.551594746716695,
+        "dimension": 39.31372549019608,
         "children": [
           {
             "id": "9f882a9b7c2af103",
@@ -160,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "寒假计划.md",
+                "file": "ReadMe.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,20 +210,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "寒假计划 的反向链接列表"
-            }
-          },
-          {
-            "id": "429723cf7c66692d",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "标签"
+              "title": "ReadMe 的反向链接列表"
             }
           },
           {
@@ -194,6 +221,38 @@
               "state": {},
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
+            }
+          },
+          {
+            "id": "34c7363f2a363d73",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "0a65c67e697dfc48",
+        "type": "tabs",
+        "dimension": 60.686274509803916,
+        "children": [
+          {
+            "id": "81814a65ecb34402",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ReadMe.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "ReadMe 的出链列表"
             }
           },
           {
@@ -209,49 +268,9 @@
               "icon": "lucide-archive",
               "title": "添加笔记属性"
             }
-          },
-          {
-            "id": "34c7363f2a363d73",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
-            }
-          },
-          {
-            "id": "6067ebec214db66d",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
-            }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "0a65c67e697dfc48",
-        "type": "tabs",
-        "dimension": 67.4484052532833,
-        "children": [
-          {
-            "id": "81814a65ecb34402",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "出链"
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -259,32 +278,105 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "publish:发布更改": false,
+      "publish:发布更改": true,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "obsidian-memos:Thino": false,
+      "omnisearch:Omnisearch": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
+      "command-palette:打开命令面板": true,
       "random-note:开始漫游笔记": false,
       "obsidian-kanban:创建新看板": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "omnisearch:Omnisearch": false,
       "homepage:Open homepage": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
       "copilot:Open Copilot Chat": false,
       "obsidian42-brat:BRAT": false,
-      "markdown-importer:打开 Markdown 格式转换器": false
+      "markdown-importer:打开 Markdown 格式转换器": true,
+      "canvas:新建白板": false
     }
+  },
+  "floating": {
+    "id": "0b94c283d035dae1",
+    "type": "floating",
+    "children": [
+      {
+        "id": "e6fc8832e5d26084",
+        "type": "window",
+        "children": [
+          {
+            "id": "9332a88420ac0ad8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "96f03fb532081a25",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://github.com/login/device/success",
+                    "title": "Device Activation",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Device Activation"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 384,
+        "y": 152,
+        "width": 1024,
+        "height": 802,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "149217c99d7a48e8",
+        "type": "window",
+        "children": [
+          {
+            "id": "7dbe5820166906c5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "10ad66be160686af",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://github.com/mgmeyers/pdfannots2json/releases",
+                    "title": "Releases · mgmeyers/pdfannots2json",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Releases · mgmeyers/pdfannots2json"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 384,
+        "y": 152,
+        "width": 1024,
+        "height": 802,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
   },
   "active": "85ee5df83856e042",
   "lastOpenFiles": [
     "ReadMe.md",
+    "040_Dairy/2025-02-16.md",
     "如梦令--期末.canvas",
     "学期总结大纲.canvas",
     "040_Dairy/2025-02-17.md",
