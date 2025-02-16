@@ -1,6 +1,6 @@
 {
   "readableLineLength": false,
-  "strictLineBreaks": false,
+  "strictLineBreaks": true,
   "showLineNumber": true,
   "autoPairMarkdown": false,
   "trashOption": "local",
@@ -17,5 +17,7 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "vimMode": false
+  "vimMode": false,
+  "propertiesInDocument": "source",
+  "foldIndent": false
 }

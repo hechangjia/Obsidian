@@ -13,22 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "010_FileBox/学期总结大纲.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "学期总结大纲"
-            }
-          },
-          {
-            "id": "0f08b1bd711b6865",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "010_FileBox/test.md",
+                "file": "ReadMe.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -43,7 +28,17 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "ReadMe"
+            }
+          },
+          {
+            "id": "0f08b1bd711b6865",
+            "type": "leaf",
+            "state": {
+              "type": "planner-release-notes",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Day Planner Release 0.27.0"
             }
           },
           {
@@ -60,8 +55,7 @@
               "title": "Release Notes 1.8.4"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,8 +115,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
         ]
@@ -138,13 +132,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "010_FileBox/test.md",
+                "file": "ReadMe.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "test 的大纲"
+              "title": "ReadMe 的大纲"
             }
           }
         ]
@@ -227,6 +221,16 @@
               "icon": "lucide-file",
               "title": "插件不再活动"
             }
+          },
+          {
+            "id": "6067ebec214db66d",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
           }
         ],
         "currentTab": 4
@@ -270,29 +274,37 @@
       "obsidian-kanban:创建新看板": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "omnisearch:Omnisearch": false,
+      "homepage:Open homepage": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "copilot:Open Copilot Chat": false,
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "0f08b1bd711b6865",
+  "active": "5d00a6640333f0ad",
   "lastOpenFiles": [
+    "010_FileBox/寒假计划.md",
     "ReadMe.md",
+    "学期总结大纲.canvas",
+    "如梦令--期末.canvas",
+    "Excalidraw/Drawing 2025-01-14 22.18.37.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-02 11.52.16.excalidraw.md",
     "hello-world.md",
     "寒假计划.md",
-    "如梦令--期末.canvas",
     "010_FileBox/test.md",
     "010_FileBox/未命名.md",
     "010_FileBox/未命名 1.md",
-    "Excalidraw/Drawing 2025-01-14 22.18.37.excalidraw.md",
     "010_FileBox/英语作文.md",
     "020_Attachment/图片/22ADBC6EF3299889AFBC3C2C162AC682.png",
     "010_FileBox/王者荣耀经验总结.md",
-    "学期总结大纲.canvas",
     "未命名.canvas",
     "王者荣耀经验总结.canvas",
     "010_FileBox/学期总结大纲.md",
     "010_FileBox/test.html",
     "020_Attachment/图片/雨疏风骤.png",
-    "Excalidraw/Drawing 2025-01-02 11.52.16.excalidraw.md",
     "Excalidraw",
     "未命名.md",
     "020_Attachment/图片/beamer图片1.png",
