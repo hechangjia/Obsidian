@@ -9,5 +9,13 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "010_FileBox",
   "useMarkdownLinks": false,
-  "attachmentFolderPath": "020_Attachment"
+  "attachmentFolderPath": "020_Attachment",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "vimMode": false
 }

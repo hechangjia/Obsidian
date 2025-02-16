@@ -32,7 +32,10 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "王者荣耀经验总结.canvas": "LiAlertTriangle",
   "020_Attachment": "LiApple",
-  "寒假计划.md": "LiAtom"
+  "寒假计划.md": "LiAtom",
+  "010_FileBox": {
+    "iconName": "LiApple",
+    "iconColor": "#2ed1b0"
+  }
 }

@@ -1,12 +1,15 @@
 {
   "pinned": [
     "obsidian-emoji-toolbar:emoji-picker:open-picker",
+    "workspace:edit-file-title",
+    "markdown:toggle-preview",
     "editor:insert-link",
     "markdown:edit-metadata-property",
     "editor:insert-wikilink",
     "workspace:move-to-new-window",
     "app:show-debug-info",
     "theme:use-dark",
-    "theme:use-light"
+    "theme:use-light",
+    "workspace:export-pdf"
   ]
 }

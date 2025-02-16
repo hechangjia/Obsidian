@@ -2,8 +2,8 @@
   "providers": {
     "ollama": {
       "url": "http://localhost:11434",
-      "defaultModel": "llama3.1",
-      "embeddingModel": "mistral",
+      "defaultModel": "deepseek-r1:14b",
+      "embeddingModel": "qwen:14b",
       "type": "ollama"
     },
     "ollama_fallback": {
