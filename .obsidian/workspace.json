@@ -30,8 +30,21 @@
               "icon": "lucide-file",
               "title": "ReadMe"
             }
+          },
+          {
+            "id": "103ed76908e598d2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "thino_view",
+              "state": {},
+              "pinned": true,
+              "icon": "Memos",
+              "title": "Thino"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -43,7 +56,7 @@
       {
         "id": "faadbae5acacbc3e",
         "type": "tabs",
-        "dimension": 52.883675464320625,
+        "dimension": 35.946843853820596,
         "children": [
           {
             "id": "d0a5672b0705e32f",
@@ -100,7 +113,7 @@
       {
         "id": "97429477b71a0c47",
         "type": "tabs",
-        "dimension": 47.116324535679375,
+        "dimension": 64.0531561461794,
         "children": [
           {
             "id": "7ff19bd14baff710",
@@ -170,8 +183,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -209,7 +222,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "0a65c67e697dfc48",
@@ -222,20 +235,19 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "010_FileBox/test.md",
+                "file": "ReadMe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "test 的出链列表"
+              "title": "ReadMe 的出链列表"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,6 +256,7 @@
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
+      "obsidian-memos:Thino": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "random-note:开始漫游笔记": false,
@@ -257,15 +270,56 @@
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
       "copilot:Open Copilot Chat": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "90bd157ba50e4ecd",
+  "floating": {
+    "id": "0b94c283d035dae1",
+    "type": "floating",
+    "children": [
+      {
+        "id": "0eca0d798671045e",
+        "type": "window",
+        "children": [
+          {
+            "id": "3c72579ba21066a3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "769d7315b0726563",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://pkmer.cn/products/thino/",
+                    "title": "PKMer_社区众筹插件-Thino",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "PKMer_社区众筹插件-Thino"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 384,
+        "y": 152,
+        "width": 1024,
+        "height": 802,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "103ed76908e598d2",
   "lastOpenFiles": [
     "ReadMe.md",
-    "010_FileBox/寒假计划.md",
-    "学期总结大纲.canvas",
     "如梦令--期末.canvas",
+    "学期总结大纲.canvas",
+    "040_Dairy/2025-02-17.md",
+    "010_FileBox/寒假计划.md",
     "Excalidraw/Drawing 2025-01-14 22.18.37.excalidraw.md",
     "Excalidraw/Drawing 2025-01-02 11.52.16.excalidraw.md",
     "hello-world.md",

@@ -1,6 +1,7 @@
 {
   "pinned": [
     "obsidian-emoji-toolbar:emoji-picker:open-picker",
+    "obsidian-git:push",
     "workspace:edit-file-title",
     "markdown:toggle-preview",
     "editor:insert-link",

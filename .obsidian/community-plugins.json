@@ -20,8 +20,11 @@
   "omnisearch",
   "homepage",
   "obsidian-day-planner",
-  "copilot",
   "obsidian-zotero-desktop-connector",
   "obsidian-pandoc",
-  "obsidian42-brat"
+  "obsidian42-brat",
+  "obsidian-list-callouts",
+  "github-copilot",
+  "obsidian-style-settings",
+  "obsidian-memos"
 ]
