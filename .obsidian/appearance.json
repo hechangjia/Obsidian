@@ -24,5 +24,8 @@
     "callout气泡样式",
     "自定义待办图标",
     "标题&列表&图片美化"
-  ]
+  ],
+  "showRibbon": true,
+  "showViewHeader": true,
+  "baseFontSizeAction": true
 }

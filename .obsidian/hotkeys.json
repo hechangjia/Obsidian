@@ -16,5 +16,21 @@
       ],
       "key": "A"
     }
+  ],
+  "various-complements:reload-custom-dictionaries": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "R"
+    }
+  ],
+  "various-complements:show-suggestions": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": " "
+    }
   ]
 }

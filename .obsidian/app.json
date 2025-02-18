@@ -19,5 +19,6 @@
   },
   "vimMode": false,
   "propertiesInDocument": "source",
-  "foldIndent": false
+  "foldIndent": false,
+  "showInlineTitle": true
 }
