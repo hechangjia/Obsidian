@@ -1,7 +1,6 @@
-```
+---
 langr-origin: Demo
-
-```
+---
 ^^^ article
 # Tensions with the West are fuelling China’s anxiety about food supplies
 

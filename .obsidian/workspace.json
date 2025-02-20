@@ -18,8 +18,33 @@
               "icon": "Memos",
               "title": "Thino"
             }
+          },
+          {
+            "id": "643077cee00e5750",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "060Clippings/WebDAV - 维基百科，自由的百科全书.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "WebDAV - 维基百科，自由的百科全书"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,12 +121,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "060Clippings/WebDAV - 维基百科，自由的百科全书.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "WebDAV - 维基百科，自由的百科全书 的大纲"
             }
           },
           {
@@ -192,14 +218,24 @@
               "icon": "bar-chart-4",
               "title": "统计"
             }
+          },
+          {
+            "id": "ebd4e07898de2d97",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "笔记复习序列"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "0a65c67e697dfc48",
         "type": "tabs",
-        "dimension": 44.588235294117645,
+        "dimension": 44.58823529411765,
         "children": [
           {
             "id": "a82ae71f3ccd76ad",
@@ -284,26 +320,35 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "103ed76908e598d2",
+  "active": "643077cee00e5750",
   "lastOpenFiles": [
-    "reviewdatabase.md",
-    "dictionary.md",
-    "ReadMe.md",
-    "资料整理.md",
-    "040_Dairy/2025-02-18.md",
-    "050_ReadingNotes/Word_databases.md",
+    "060Clippings/HTTP 响应状态码 - HTTP  MDN.md",
+    "060Clippings/WebDAV - 维基百科，自由的百科全书.md",
+    "060Clippings",
+    "Python学习笔记/Python和C类语言的一些区别.md",
+    "060Clippings",
+    "040_Dairy/2025-02-20.md",
     "010_FileBox/Demo.md",
+    "040_Dairy/2025-02-19.md",
+    "概率统计和随机过程/第一节课.md",
+    "dictionary.md",
+    "Python学习笔记/Python中一些函数的用法.md",
+    "010_FileBox/资料整理.md",
+    "Python学习笔记",
+    "概率统计和随机过程",
+    "010_FileBox/如梦令--期末.canvas",
+    "040_Dairy/2025-02-18.md",
+    "reviewdatabase.md",
+    "ReadMe.md",
+    "050_ReadingNotes/Word_databases.md",
     "020_Attachment/图片/22ADBC6EF3299889AFBC3C2C162AC682.png",
     "020_Attachment/图片/beamer图片1.png",
     "020_Attachment/图片/雨疏风骤.png",
     "010_FileBox/未命名.md",
-    "如梦令--期末.canvas",
-    "未命名",
     "040_Dairy/2025-02-16.md",
     "010_FileBox/寒假计划.md",
     "040_Dairy/2025-02-17.md",
-    "010_FileBox/Python中一些函数的用法.md",
-    "010_FileBox/Python中pip的作用.md",
+    "Python学习笔记/Python中pip的作用.md",
     "学期总结大纲.canvas",
     "Excalidraw/Drawing 2025-01-14 22.18.37.excalidraw.md",
     "Excalidraw/Drawing 2025-01-02 11.52.16.excalidraw.md",
@@ -312,17 +357,13 @@
     "010_FileBox/test.md",
     "010_FileBox/未命名 1.md",
     "010_FileBox/英语作文.md",
-    "010_FileBox/王者荣耀经验总结.md",
     "未命名.canvas",
     "王者荣耀经验总结.canvas",
-    "010_FileBox/学期总结大纲.md",
     "010_FileBox/test.html",
     "Excalidraw",
     "020_Attachment/图片",
     "050_ReadingNotes",
     "040_Dairy",
-    "030_Templater",
-    "020_Attachment",
-    "010_FileBox"
+    "030_Templater"
   ]
 }

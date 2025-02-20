@@ -3,7 +3,7 @@
   "accentColor": "#35b1af",
   "interfaceFontFamily": "霞鹜文楷 GB",
   "textFontFamily": "霞鹜文楷 GB",
-  "monospaceFontFamily": "霞鹜文楷 GB",
+  "monospaceFontFamily": "DejaVu Sans Mono",
   "baseFontSize": 21,
   "enabledCssSnippets": [
     "【进度颜色】colourful progress bar",
