@@ -30,5 +30,11 @@
   "code-emitter",
   "obsidian-language-learner",
   "obsidian-spaced-repetition",
-  "various-complements"
+  "various-complements",
+  "heatmap-calendar",
+  "templater-obsidian",
+  "obsidian-linter",
+  "nldates-obsidian",
+  "file-explorer-note-count",
+  "file-tree-alternative"
 ]

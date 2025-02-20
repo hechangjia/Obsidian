@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "HeatMap",
+      "path": "010_FileBox/HeatMap.md"
+    },
+    {
+      "basename": "Python小结",
+      "path": "Python学习笔记/Python小结.md"
+    },
+    {
+      "basename": "Python中一些函数的用法",
+      "path": "Python学习笔记/Python中一些函数的用法.md"
+    },
+    {
+      "basename": "服务器 - 维基百科，自由的百科全书",
+      "path": "060Clippings/服务器 - 维基百科，自由的百科全书.md"
+    },
+    {
       "basename": "WebDAV - 维基百科，自由的百科全书",
       "path": "060Clippings/WebDAV - 维基百科，自由的百科全书.md"
     },
@@ -31,10 +47,6 @@
     {
       "basename": "dictionary",
       "path": "dictionary.md"
-    },
-    {
-      "basename": "Python中一些函数的用法",
-      "path": "Python学习笔记/Python中一些函数的用法.md"
     },
     {
       "basename": "资料整理",
