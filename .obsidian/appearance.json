@@ -1,10 +1,10 @@
 {
   "cssTheme": "Minimal",
-  "accentColor": "",
+  "accentColor": "#205ed9",
   "interfaceFontFamily": "仓耳今楷05",
   "textFontFamily": "仓耳今楷05",
   "monospaceFontFamily": "Fira Code",
-  "baseFontSize": 21,
+  "baseFontSize": 19,
   "enabledCssSnippets": [
     "大纲等级符号",
     "给列表增加动态引线",

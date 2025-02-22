@@ -18,8 +18,11 @@
     "downscalePercent": 100
   },
   "vimMode": false,
-  "propertiesInDocument": "source",
+  "propertiesInDocument": "visible",
   "foldIndent": false,
   "showInlineTitle": true,
-  "foldHeading": false
+  "foldHeading": false,
+  "livePreview": true,
+  "defaultViewMode": "source",
+  "focusNewTab": true
 }

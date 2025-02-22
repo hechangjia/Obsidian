@@ -1,17 +1,13 @@
 ---
 title: "Deepseek: The Quiet Giant Leading China’s AI Race"
-source: "https://www.chinatalk.media/p/deepseek-ceo-interview-with-chinas"
+source: https://www.chinatalk.media/p/deepseek-ceo-interview-with-chinas
 author:
   - "[[Jordan Schneider]]"
-  - "[[Angela Shen]]"
-  - "[[Irene Zhang]]"
-  - "[[Yiwen]]"
-  - "[[Nicholas Welch]]"
 published: 2024-11-27
 created: 2025-02-21
-description: "Annotated translation of its CEO's deepest interview"
+description: Annotated translation of its CEO's deepest interview
 tags:
-  - "clippings"
+  - clippings
 ---
 Deepseek is a Chinese AI startup whose latest R1 model **[beat OpenAI’s o1](https://api-docs.deepseek.com/news/news1120) on multiple reasoning benchmarks**. Despite its low profile, Deepseek is the Chinese AI lab to watch.
 

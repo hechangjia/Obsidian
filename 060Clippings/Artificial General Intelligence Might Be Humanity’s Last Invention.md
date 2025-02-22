@@ -20,3 +20,5 @@ Humans are the first and, to our knowledge, only entities on Earth to develop ge
 - [artificial intelligence](https://kottke.org/tag/artificial%20intelligence)
 - [Kurzgesagt](https://kottke.org/tag/Kurzgesagt)
 - [video](https://kottke.org/tag/video)
+
+![](https://youtu.be/L0MK7qz13bU?si=He7KhVy1aMJ6bfZK)

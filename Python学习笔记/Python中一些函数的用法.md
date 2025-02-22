@@ -1,3 +1,16 @@
+---
+title: Python
+author:
+  - charlie
+date: 2025-02-22-15:35
+rating: "8"
+description: 简单记录一些Python中实用,具有特色的函数的用法
+tags:
+  - 总结
+  - python
+layout: post
+banner: [[beamer图片1.png]]
+---
 
 # int函数
 
@@ -16,6 +29,8 @@ print(base3_num) # 输出：27
 > [!note]
 > - b:表示a所用的进制,int支持从2-36的所有进制(??0~9+A~Z=36??),如上述示例中,b=4.那么a中所用进制就是4进制.
 > - 于此同时,a中的每一位上的数<b.
+
+#总结
 
 
 
