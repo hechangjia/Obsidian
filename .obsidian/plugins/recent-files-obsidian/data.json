@@ -1,32 +1,128 @@
 {
   "recentFiles": [
     {
-      "basename": "HeatMap",
-      "path": "010_FileBox/HeatMap.md"
+      "basename": "资料整理",
+      "path": "010_FileBox/资料整理.md"
     },
     {
-      "basename": "Python小结",
-      "path": "Python学习笔记/Python小结.md"
+      "basename": "父与子的编程之旅：与小卡特一起学Python（第3版）_ (Z-Library)",
+      "path": "Reference-Book/父与子的编程之旅：与小卡特一起学Python（第3版）_ (Z-Library).pdf"
+    },
+    {
+      "basename": "第一节课",
+      "path": "概率统计和随机过程/第一节课.md"
+    },
+    {
+      "basename": "寒假计划",
+      "path": "010_FileBox/寒假计划.md"
+    },
+    {
+      "basename": "2025-02-22",
+      "path": "040_Dairy/2025-02-22.md"
+    },
+    {
+      "basename": "Python和C类语言的一些区别",
+      "path": "Python学习笔记/Python和C类语言的一些区别.md"
     },
     {
       "basename": "Python中一些函数的用法",
       "path": "Python学习笔记/Python中一些函数的用法.md"
     },
     {
-      "basename": "服务器 - 维基百科，自由的百科全书",
-      "path": "060Clippings/服务器 - 维基百科，自由的百科全书.md"
+      "basename": "Python小结",
+      "path": "Python学习笔记/Python小结.md"
     },
     {
-      "basename": "WebDAV - 维基百科，自由的百科全书",
-      "path": "060Clippings/WebDAV - 维基百科，自由的百科全书.md"
+      "basename": "Artificial General Intelligence Might Be Humanity’s Last Invention",
+      "path": "060Clippings/Artificial General Intelligence Might Be Humanity’s Last Invention.md"
+    },
+    {
+      "basename": "2025-02-21",
+      "path": "040_Dairy/2025-02-21.md"
+    },
+    {
+      "basename": "科技爱好者周刊（第 314 期）：《黑神话：悟空》可以产业化吗？ - 阮一峰的网络日志",
+      "path": "060Clippings/阮一峰合集/科技爱好者周刊（第 314 期）：《黑神话：悟空》可以产业化吗？ - 阮一峰的网络日志.md"
+    },
+    {
+      "basename": "AI and Stress",
+      "path": "060Clippings/AI and Stress.md"
+    },
+    {
+      "basename": "If GPUs Are So Good, Why Do We Still Use CPUs At All",
+      "path": "060Clippings/If GPUs Are So Good, Why Do We Still Use CPUs At All.md"
+    },
+    {
+      "basename": "Where have the International Math Olympiad Gold Medallists Ended Up Part Two of Three",
+      "path": "060Clippings/Where have the International Math Olympiad Gold Medallists Ended Up Part Two of Three.md"
+    },
+    {
+      "basename": "10 Essential Terminal Commands Every Developer Should Know",
+      "path": "060Clippings/10 Essential Terminal Commands Every Developer Should Know.md"
+    },
+    {
+      "basename": "Deepseek The Quiet Giant Leading China’s AI Race",
+      "path": "060Clippings/Deepseek The Quiet Giant Leading China’s AI Race.md"
+    },
+    {
+      "basename": "疯狂的幻方：一家隐形AI巨头的大模型之路",
+      "path": "060Clippings/疯狂的幻方：一家隐形AI巨头的大模型之路.md"
+    },
+    {
+      "basename": "科技爱好者周刊（第 327 期）：没有链接的互联网 - 阮一峰的网络日志",
+      "path": "060Clippings/阮一峰合集/科技爱好者周刊（第 327 期）：没有链接的互联网 - 阮一峰的网络日志.md"
+    },
+    {
+      "basename": "What is AppData, and what are Local, LocalLow, and Roaming 1",
+      "path": "060Clippings/What is AppData, and what are Local, LocalLow, and Roaming 1.md"
+    },
+    {
+      "basename": "Linux Asceticism rugu",
+      "path": "060Clippings/Linux Asceticism rugu.md"
+    },
+    {
+      "basename": "The Case for Failure-Tolerant Leaders Why we need them now",
+      "path": "060Clippings/The Case for Failure-Tolerant Leaders Why we need them now.md"
     },
     {
       "basename": "HTTP 响应状态码 - HTTP  MDN",
       "path": "060Clippings/HTTP 响应状态码 - HTTP  MDN.md"
     },
     {
-      "basename": "Python和C类语言的一些区别",
-      "path": "Python学习笔记/Python和C类语言的一些区别.md"
+      "basename": "Bluetooth 1.0 to 6.0 explained How do Bluetooth versions differ from each other",
+      "path": "060Clippings/Bluetooth 1.0 to 6.0 explained How do Bluetooth versions differ from each other.md"
+    },
+    {
+      "basename": "公开密钥加密 - 维基百科，自由的百科全书",
+      "path": "060Clippings/Wikipedia/公开密钥加密 - 维基百科，自由的百科全书.md"
+    },
+    {
+      "basename": "服务器 - 维基百科，自由的百科全书",
+      "path": "060Clippings/Wikipedia/服务器 - 维基百科，自由的百科全书.md"
+    },
+    {
+      "basename": "WebDAV - 维基百科，自由的百科全书",
+      "path": "060Clippings/WebDAV - 维基百科，自由的百科全书.md"
+    },
+    {
+      "basename": "命令行常用工具的替代品 - 阮一峰的网络日志",
+      "path": "060Clippings/阮一峰合集/命令行常用工具的替代品 - 阮一峰的网络日志.md"
+    },
+    {
+      "basename": "beamer图片1",
+      "path": "020_Attachment/图片/beamer图片1.png"
+    },
+    {
+      "basename": "雨疏风骤",
+      "path": "020_Attachment/图片/雨疏风骤.png"
+    },
+    {
+      "basename": "22ADBC6EF3299889AFBC3C2C162AC682",
+      "path": "020_Attachment/图片/22ADBC6EF3299889AFBC3C2C162AC682.png"
+    },
+    {
+      "basename": "HeatMap",
+      "path": "010_FileBox/HeatMap.md"
     },
     {
       "basename": "2025-02-20",
@@ -41,16 +137,8 @@
       "path": "040_Dairy/2025-02-19.md"
     },
     {
-      "basename": "第一节课",
-      "path": "概率统计和随机过程/第一节课.md"
-    },
-    {
       "basename": "dictionary",
       "path": "dictionary.md"
-    },
-    {
-      "basename": "资料整理",
-      "path": "010_FileBox/资料整理.md"
     },
     {
       "basename": "如梦令--期末",
@@ -73,24 +161,8 @@
       "path": "050_ReadingNotes/Word_databases.md"
     },
     {
-      "basename": "22ADBC6EF3299889AFBC3C2C162AC682",
-      "path": "020_Attachment/图片/22ADBC6EF3299889AFBC3C2C162AC682.png"
-    },
-    {
-      "basename": "beamer图片1",
-      "path": "020_Attachment/图片/beamer图片1.png"
-    },
-    {
-      "basename": "雨疏风骤",
-      "path": "020_Attachment/图片/雨疏风骤.png"
-    },
-    {
       "basename": "2025-02-16",
       "path": "040_Dairy/2025-02-16.md"
-    },
-    {
-      "basename": "寒假计划",
-      "path": "010_FileBox/寒假计划.md"
     },
     {
       "basename": "2025-02-17",
@@ -127,18 +199,6 @@
     {
       "basename": "英语作文",
       "path": "010_FileBox/英语作文.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "未命名.canvas"
-    },
-    {
-      "basename": "学期总结大纲",
-      "path": "010_FileBox/学期总结大纲.md"
-    },
-    {
-      "basename": "雨疏风骤",
-      "path": "020_Attachment/雨疏风骤.png"
     }
   ],
   "omittedPaths": [],

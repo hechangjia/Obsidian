@@ -1,12 +1,11 @@
 {
   "cssTheme": "Minimal",
-  "accentColor": "#35b1af",
-  "interfaceFontFamily": "霞鹜文楷 GB",
-  "textFontFamily": "霞鹜文楷 GB",
-  "monospaceFontFamily": "DejaVu Sans Mono",
+  "accentColor": "",
+  "interfaceFontFamily": "仓耳今楷05",
+  "textFontFamily": "仓耳今楷05",
+  "monospaceFontFamily": "Fira Code",
   "baseFontSize": 21,
   "enabledCssSnippets": [
-    "【进度颜色】colourful progress bar",
     "大纲等级符号",
     "给列表增加动态引线",
     "从一级标题开始计数",
