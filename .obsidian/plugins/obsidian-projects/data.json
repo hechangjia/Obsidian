@@ -1,0 +1,90 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "040_Dairy",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "banner": {
+                "hide": true
+              },
+              "categories": {
+                "hide": false
+              },
+              "created": {
+                "hide": true
+              },
+              "author": {
+                "hide": true
+              },
+              "path": {
+                "hide": true
+              },
+              "type": {
+                "hide": true
+              },
+              "title": {
+                "hide": true
+              }
+            },
+            "orderFields": [
+              "name",
+              "Exercise",
+              "Mood",
+              "title",
+              "rating",
+              "tags",
+              "type"
+            ]
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "0a0cc978-75da-4354-afc7-7f159186bfc4",
+          "name": "表格",
+          "type": "table"
+        }
+      ],
+      "id": "65e6a738-586a-4b76-9227-06d2495de053",
+      "name": "demo"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "locale": {
+      "firstDayOfWeek": "default"
+    },
+    "commands": [
+      {
+        "project": "65e6a738-586a-4b76-9227-06d2495de053",
+        "view": "0a0cc978-75da-4354-afc7-7f159186bfc4"
+      }
+    ],
+    "linkBehavior": "open-editor"
+  }
+}

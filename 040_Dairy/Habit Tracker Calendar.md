@@ -1,6 +1,5 @@
 ---
 title: Habit Tracker Calendar
-description: A HeatMap Calendar for tracking habits
 tags:
   - 总结
 categories: 日记

@@ -139,6 +139,12 @@
       },
       "obsidian-minimal-settings": {
         "startupType": "instant"
+      },
+      "obsidian-image-auto-upload-plugin": {
+        "startupType": "instant"
+      },
+      "pexels-banner": {
+        "startupType": "instant"
       }
     }
   }

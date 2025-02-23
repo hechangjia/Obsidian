@@ -1,28 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "日记模板",
-      "path": "030_Templater/日记模板.md"
+      "basename": "第一节课",
+      "path": "概率统计和随机过程/第一节课.md"
     },
     {
-      "basename": "读书笔记模板",
-      "path": "030_Templater/读书笔记模板.md"
+      "basename": "Dataview语法学习",
+      "path": "Obsidian学习记录/Dataview语法学习.md"
+    },
+    {
+      "basename": "看板",
+      "path": "010_FileBox/看板.md"
+    },
+    {
+      "basename": "寒假计划",
+      "path": "010_FileBox/寒假计划.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Homepage.md"
     },
     {
       "basename": "Demo",
       "path": "030_Templater/Demo.md"
     },
     {
-      "basename": "未命名",
-      "path": "010_FileBox/未命名.md"
+      "basename": "日记模板",
+      "path": "030_Templater/日记模板.md"
     },
     {
-      "basename": "Templater语法学习",
-      "path": "030_Templater/Templater语法学习.md"
-    },
-    {
-      "basename": "Dataview语法学习",
-      "path": "Obsidian学习记录/Dataview语法学习.md"
+      "basename": "读书笔记模板",
+      "path": "030_Templater/读书笔记模板.md"
     },
     {
       "basename": "2025-02-21",
@@ -43,10 +51,6 @@
     {
       "basename": "2025-02-01",
       "path": "040_Dairy/2025-02-01.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Homepage.md"
     },
     {
       "basename": "2025-02-16",
@@ -79,10 +83,6 @@
     {
       "basename": "date",
       "path": "010_FileBox/date.md"
-    },
-    {
-      "basename": "寒假计划",
-      "path": "010_FileBox/寒假计划.md"
     },
     {
       "basename": "疯狂的幻方：一家隐形AI巨头的大模型之路",
@@ -143,10 +143,6 @@
     {
       "basename": "2025-02",
       "path": "2025-02.md"
-    },
-    {
-      "basename": "第一节课",
-      "path": "概率统计和随机过程/第一节课.md"
     },
     {
       "basename": "Python小结",

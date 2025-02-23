@@ -29,5 +29,7 @@
   "lazy-plugins",
   "obsidian-minimal-settings",
   "pexels-banner",
-  "obsidian-image-auto-upload-plugin"
+  "obsidian-image-auto-upload-plugin",
+  "obsidian-meta-bind-plugin",
+  "obsidian-projects"
 ]
