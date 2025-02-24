@@ -145,6 +145,12 @@
       },
       "pexels-banner": {
         "startupType": "instant"
+      },
+      "obsidian-meta-bind-plugin": {
+        "startupType": "instant"
+      },
+      "obsidian-projects": {
+        "startupType": "instant"
       }
     }
   }
