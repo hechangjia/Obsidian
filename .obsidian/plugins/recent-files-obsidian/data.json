@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "dictionary",
+      "path": "dictionary.md"
+    },
+    {
+      "basename": "reviewdatabase",
+      "path": "reviewdatabase.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Homepage.md"
+    },
+    {
+      "basename": "W3Schools.com",
+      "path": "060Clippings/编程/Git/W3Schools.com.md"
+    },
+    {
       "basename": "'git' tag wiki",
       "path": "060Clippings/编程/Git/'git' tag wiki.md"
     },
@@ -23,10 +39,6 @@
     {
       "basename": "2025-02-24",
       "path": "040_Dairy/2025-02-24.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Homepage.md"
     },
     {
       "basename": "第一节课",
@@ -187,18 +199,6 @@
     {
       "basename": "Demo",
       "path": "010_FileBox/Demo.md"
-    },
-    {
-      "basename": "父与子的编程之旅：与小卡特一起学Python（第3版）_ (Z-Library)",
-      "path": "Reference-Book/父与子的编程之旅：与小卡特一起学Python（第3版）_ (Z-Library).pdf"
-    },
-    {
-      "basename": "AI and Stress",
-      "path": "060Clippings/AI and Stress.md"
-    },
-    {
-      "basename": "If GPUs Are So Good, Why Do We Still Use CPUs At All",
-      "path": "060Clippings/If GPUs Are So Good, Why Do We Still Use CPUs At All.md"
     }
   ],
   "omittedPaths": [],
