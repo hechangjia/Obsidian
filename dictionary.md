@@ -7,6 +7,9 @@ sufficiency,    n. 足量，充足；自满
 [ 复数 sufficiencies ]
 calculations,    n. 计算，运算；估算，预测（calculation 的复数）
 component,    n. 组成部分，成分，部件
+config,    n. 配置，布局；显示配置信息命令
+default,    n. 默认，系统设定值；不履行，违约；缺席，弃权
+demo,    n. 演示；示威；样本唱片
 
 #### 眼熟
 
@@ -27,3 +30,6 @@ n. 足量，充足；自满
 [ 复数 sufficiencies ]  ,  sufficiency
 n. 计算，运算；估算，预测（calculation 的复数）  ,  calculations
 n. 组成部分，成分，部件  ,  component
+n. 配置，布局；显示配置信息命令  ,  config
+n. 默认，系统设定值；不履行，违约；缺席，弃权  ,  default
+n. 演示；示威；样本唱片  ,  demo

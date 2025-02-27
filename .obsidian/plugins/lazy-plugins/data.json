@@ -9,7 +9,7 @@
     "showDescriptions": true,
     "plugins": {
       "obsidian-advanced-slides": {
-        "startupType": "instant"
+        "startupType": "disabled"
       },
       "table-editor-obsidian": {
         "startupType": "instant"
@@ -21,7 +21,7 @@
         "startupType": "instant"
       },
       "obsidian42-brat": {
-        "startupType": "long"
+        "startupType": "disabled"
       },
       "calendar": {
         "startupType": "instant"
@@ -30,28 +30,28 @@
         "startupType": "short"
       },
       "obsidian-copy-block-link": {
-        "startupType": "short"
+        "startupType": "long"
       },
       "dataview": {
         "startupType": "instant"
       },
       "obsidian-day-planner": {
-        "startupType": "instant"
+        "startupType": "disabled"
       },
       "editing-toolbar": {
-        "startupType": "short"
+        "startupType": "instant"
       },
       "obsidian-emoji-toolbar": {
         "startupType": "short"
       },
       "obsidian-excalidraw-plugin": {
-        "startupType": "short"
+        "startupType": "long"
       },
       "file-explorer-note-count": {
         "startupType": "instant"
       },
       "file-tree-alternative": {
-        "startupType": "short"
+        "startupType": "instant"
       },
       "obsidian-git": {
         "startupType": "short"
@@ -105,13 +105,13 @@
         "startupType": "long"
       },
       "pdf-plus": {
-        "startupType": "long"
+        "startupType": "disabled"
       },
       "periodic-notes": {
         "startupType": "instant"
       },
       "persistent-links": {
-        "startupType": "instant"
+        "startupType": "disabled"
       },
       "recent-files-obsidian": {
         "startupType": "short"

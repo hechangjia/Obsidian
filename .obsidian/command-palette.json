@@ -10,7 +10,6 @@
     "workspace:move-to-new-window",
     "app:show-debug-info",
     "theme:use-dark",
-    "theme:use-light",
-    "workspace:export-pdf"
+    "theme:use-light"
   ]
 }

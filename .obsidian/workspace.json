@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "Homepage.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "af374eb37153ea38",
+            "id": "e6541d52df7e043d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dictionary.md",
+                "file": "040_Dairy/2025-02-27.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,11 +54,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "dictionary"
+              "title": "2025-02-27"
+            }
+          },
+          {
+            "id": "69c9c16f67994a84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "060Clippings/missing-semester/课程概览与 shell.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "课程概览与 shell"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "2-26日记",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,27 +136,7 @@
             }
           },
           {
-            "id": "673aab7f06de0531",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
-            }
-          },
-          {
-            "id": "ad1cac2ee35a393a",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
-            }
-          },
-          {
-            "id": "16441a5466ebf17e",
+            "id": "431ed5eb2919ddb3",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
@@ -145,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 221.5
   },
   "right": {
     "id": "9e897b7b74f7e45c",
@@ -172,12 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -211,12 +216,11 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "0a65c67e697dfc48",
@@ -239,12 +243,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "010_FileBox/资料整理.md",
+                "file": "060Clippings/missing-semester/课程概览与 shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "资料整理 的出链列表"
+              "title": "课程概览与 shell 的出链列表"
             }
           },
           {
@@ -311,7 +315,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -329,11 +333,8 @@
       "canvas:新建白板": false,
       "obsidian-kanban:创建新看板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
       "omnisearch:Omnisearch": false,
       "homepage:Open homepage": false,
-      "obsidian-day-planner:Open Timeline": false,
-      "obsidian-day-planner:Open Multi-Day View": false,
       "obsidian-memos:Thino": false,
       "obsidian-language-learner:打开查词面板": false,
       "obsidian-language-learner:打开新词面板": false,
@@ -343,56 +344,53 @@
       "templater-obsidian:Templater": false,
       "media-extended:Open media": false,
       "obsidian-projects:打开项目": false,
-      "periodic-notes:Open today": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian42-brat:BRAT": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "af374eb37153ea38",
+  "active": "69c9c16f67994a84",
   "lastOpenFiles": [
-    "reviewdatabase.md",
-    "dictionary.md",
     "Homepage.md",
-    "060Clippings/编程/Git/W3Schools.com.md",
-    "060Clippings/编程/Git/'git' tag wiki.md",
-    "060Clippings/人物/林纳斯·托瓦兹 - 维基百科，自由的百科全书.md",
+    "060Clippings/missing-semester/课程概览与 shell.md",
+    "060Clippings/missing-semester",
+    "Python学习笔记/Python中pip的作用.md",
+    "Python学习笔记/Python中一些函数的用法.md",
+    "Python学习笔记/Python中列表,集合,字典,元组的异同.md",
+    "Python学习笔记/Python小结.md",
+    "Python学习笔记/Python和C类语言的一些区别.md",
+    "Python学习笔记/EricsBroadcastingDoc - SciPy wiki dump.md",
+    "Obsidian学习记录/Dataview语法学习.md",
+    "Excalidraw/Drawing 2025-01-14 22.18.37.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-02 11.52.16.excalidraw.md",
+    "DeepLearning/任选课.md",
+    "DeepLearning/残差神经网络 - 维基百科，自由的百科全书.md",
+    "040_Dairy/2025-02-27.md",
+    "060Clippings/编程/python",
+    "040_Dairy/2025-02-26.md",
+    "010_FileBox/看板.md",
+    "050_ReadingNotes/读书报告.md",
+    "030_Templater/读书笔记模板.md",
+    "030_Templater/Demo.md",
+    "040_Dairy/2025-02-24.md",
+    "030_Templater/日记模板.md",
+    "060Clippings/编程/Git/Git - 关于版本控制.md",
+    "060Clippings/编程/Git/工作流一目了然，看小姐姐用动图展示10大Git命令.md",
+    "020_Attachment/人物/turing.jpeg",
+    "020_Attachment/人物",
+    "070_学习经历总结/Python Numpy Tutorial (with Jupyter and Colab).md",
+    "060Clippings/人物/李飞飞 （Fei-Fei Li） 的简历 斯坦福概况 --- Fei-Fei Li's Profile  Stanford Profiles.md",
+    "060Clippings/Attention Attention!.md",
+    "DeepLearning",
+    "060Clippings/编程语言历史",
+    "020_Attachment/Pasted image 20250225114651.png",
+    "070_学习经历总结",
     "060Clippings/编程/Git",
     "060Clippings/编程",
-    "060Clippings/疯狂的幻方：一家隐形AI巨头的大模型之路.md",
-    "060Clippings/Git Cheatsheet - cs.fyi.md",
     "060Clippings/人物",
-    "060Clippings/Developer Roadmaps.md",
-    "040_Dairy/2025-02-24.md",
-    "概率统计和随机过程/第一节课.md",
-    "010_FileBox/未命名.md",
-    "Obsidian学习记录/Dataview语法学习.md",
-    "010_FileBox/看板.md",
-    "010_FileBox/寒假计划.md",
-    "030_Templater/Templater语法学习.md",
-    "030_Templater/Demo.md",
-    "030_Templater/日记模板.md",
-    "030_Templater/读书笔记模板.md",
-    "010_FileBox/测试.md",
-    "010_FileBox/1.md",
-    "040_Dairy/2025-02-21.md",
-    "060Clippings/Wikipedia/YAML - 维基百科，自由的百科全书.md",
-    "060Clippings/阮一峰合集/YAML 语言教程 - 阮一峰的网络日志.md",
-    "010_FileBox/未命名 2.md",
-    "040_Dairy/Habit Tracker Calendar.md",
     "020_Attachment/图片/22ADBC6EF3299889AFBC3C2C162AC682.png",
     "Obsidian学习记录",
-    "020_Attachment/King Lear (Saddlebacks Illustrated Cl... (Z-Library).pdf",
     "020_Attachment/图片/lovley.png",
-    "Reference-Book/hello-algo_1.2.0_zh_python.pdf",
-    "Reference-Book/父与子的编程之旅：与小卡特一起学Python（第3版）_ (Z-Library).pdf",
-    "Reference-Book/简单高效LaTeX (吴康隆) (Z-Library).pdf",
-    "Reference-Book/了不起的Markdown (毕小朋) (Z-Library).pdf",
-    "Reference-Book/install-latex-guide-zh-cn.pdf",
     "020_Attachment/图片/beamer图片1.png",
     "020_Attachment/图片/雨疏风骤.png",
     "010_FileBox/如梦令--期末.canvas",

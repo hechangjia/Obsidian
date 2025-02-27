@@ -8,10 +8,8 @@
   "obsidian-icon-folder",
   "obsidian-outliner",
   "local-gpt",
-  "obsidian-advanced-slides",
   "omnisearch",
   "homepage",
-  "obsidian-day-planner",
   "obsidian-zotero-desktop-connector",
   "obsidian-list-callouts",
   "obsidian-style-settings",
@@ -23,13 +21,12 @@
   "obsidian-linter",
   "nldates-obsidian",
   "file-explorer-note-count",
-  "periodic-notes",
-  "persistent-links",
   "media-extended",
   "lazy-plugins",
   "obsidian-minimal-settings",
   "pexels-banner",
-  "obsidian-image-auto-upload-plugin",
   "obsidian-meta-bind-plugin",
-  "obsidian-projects"
+  "obsidian-projects",
+  "file-tree-alternative",
+  "editing-toolbar"
 ]
