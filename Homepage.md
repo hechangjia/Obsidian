@@ -1,4 +1,6 @@
 ---
+icon:
+  - 🥳
 date: 2025-02-23-07-35
 author:
   - charlie
@@ -14,6 +16,10 @@ Mood: "8"
 Exercise: 
 type: 日记
 banner: "[[beamer图片1.png]]"
+banner-display: cover
+banner-height: 350
+banner-x: 50
+banner-y: 50
 ---
 
 ## Due today

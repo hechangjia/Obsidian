@@ -135,7 +135,7 @@
         "startupType": "short"
       },
       "obsidian-zotero-desktop-connector": {
-        "startupType": "instant"
+        "startupType": "short"
       },
       "obsidian-minimal-settings": {
         "startupType": "instant"
@@ -147,7 +147,7 @@
         "startupType": "instant"
       },
       "obsidian-meta-bind-plugin": {
-        "startupType": "instant"
+        "startupType": "long"
       },
       "obsidian-projects": {
         "startupType": "instant"

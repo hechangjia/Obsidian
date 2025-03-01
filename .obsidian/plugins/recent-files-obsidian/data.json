@@ -1,12 +1,92 @@
 {
   "recentFiles": [
     {
-      "basename": "课程概览与 shell",
-      "path": "060Clippings/missing-semester/课程概览与 shell.md"
+      "basename": "2025-03-01",
+      "path": "040_Dairy/2025-03-01.md"
+    },
+    {
+      "basename": "日记模板",
+      "path": "030_Templater/日记模板.md"
+    },
+    {
+      "basename": "各种开源协议介绍  菜鸟教程",
+      "path": "060Clippings/编程/各种开源协议介绍  菜鸟教程.md"
+    },
+    {
+      "basename": "2025-02-28",
+      "path": "040_Dairy/2025-02-28.md"
+    },
+    {
+      "basename": "2025-02-27",
+      "path": "040_Dairy/2025-02-27.md"
     },
     {
       "basename": "Homepage",
       "path": "Homepage.md"
+    },
+    {
+      "basename": "Drawing 2025-03-01 15.34.09.excalidraw",
+      "path": "Excalidraw/Drawing 2025-03-01 15.34.09.excalidraw.md"
+    },
+    {
+      "basename": "Demo",
+      "path": "030_Templater/Demo.md"
+    },
+    {
+      "basename": "Long-Term-Tasks",
+      "path": "Long-Term-Tasks.md"
+    },
+    {
+      "basename": "How to Write a Git Commit Message",
+      "path": "060Clippings/编程/Git/How to Write a Git Commit Message.md"
+    },
+    {
+      "basename": "00 教师用书_前言 201702",
+      "path": "020_Attachment/PDF资料/C语言书籍/浙大教材-教师用书/00 教师用书_前言 201702.pdf"
+    },
+    {
+      "basename": "C语言的科学和艺术",
+      "path": "020_Attachment/PDF资料/C语言书籍/C语言的科学和艺术.pdf"
+    },
+    {
+      "basename": "C语言程序设计第四版",
+      "path": "020_Attachment/PDF资料/C语言书籍/C语言程序设计第四版.pdf"
+    },
+    {
+      "basename": "Knuth",
+      "path": "020_Attachment/人物/Knuth.png"
+    },
+    {
+      "basename": "turing",
+      "path": "020_Attachment/人物/turing.jpeg"
+    },
+    {
+      "basename": "GNU_make",
+      "path": "020_Attachment/PDF资料/GNU_make.pdf"
+    },
+    {
+      "basename": "dictionary",
+      "path": "dictionary.md"
+    },
+    {
+      "basename": "学期总结大纲",
+      "path": "学期总结大纲.canvas"
+    },
+    {
+      "basename": "日常流程",
+      "path": "日常流程.md"
+    },
+    {
+      "basename": "Numpy",
+      "path": "Python学习笔记/Numpy.md"
+    },
+    {
+      "basename": "Regular expression - Wikipedia",
+      "path": "060Clippings/编程/Regular-Expression/Regular expression - Wikipedia.md"
+    },
+    {
+      "basename": "课程概览与 shell",
+      "path": "060Clippings/missing-semester/课程概览与 shell.md"
     },
     {
       "basename": "Python中pip的作用",
@@ -49,10 +129,6 @@
       "path": "DeepLearning/残差神经网络 - 维基百科，自由的百科全书.md"
     },
     {
-      "basename": "2025-02-27",
-      "path": "040_Dairy/2025-02-27.md"
-    },
-    {
       "basename": "2025-02-26",
       "path": "040_Dairy/2025-02-26.md"
     },
@@ -69,16 +145,8 @@
       "path": "030_Templater/读书笔记模板.md"
     },
     {
-      "basename": "Demo",
-      "path": "030_Templater/Demo.md"
-    },
-    {
       "basename": "2025-02-24",
       "path": "040_Dairy/2025-02-24.md"
-    },
-    {
-      "basename": "日记模板",
-      "path": "030_Templater/日记模板.md"
     },
     {
       "basename": "Git - 关于版本控制",
@@ -121,10 +189,6 @@
       "path": "040_Dairy/Habit Tracker Calendar.md"
     },
     {
-      "basename": "dictionary",
-      "path": "dictionary.md"
-    },
-    {
       "basename": "reviewdatabase",
       "path": "reviewdatabase.md"
     },
@@ -135,70 +199,6 @@
     {
       "basename": "'git' tag wiki",
       "path": "060Clippings/编程/Git/'git' tag wiki.md"
-    },
-    {
-      "basename": "林纳斯·托瓦兹 - 维基百科，自由的百科全书",
-      "path": "060Clippings/人物/林纳斯·托瓦兹 - 维基百科，自由的百科全书.md"
-    },
-    {
-      "basename": "疯狂的幻方：一家隐形AI巨头的大模型之路",
-      "path": "060Clippings/疯狂的幻方：一家隐形AI巨头的大模型之路.md"
-    },
-    {
-      "basename": "Git Cheatsheet - cs.fyi",
-      "path": "060Clippings/Git Cheatsheet - cs.fyi.md"
-    },
-    {
-      "basename": "Developer Roadmaps",
-      "path": "060Clippings/Developer Roadmaps.md"
-    },
-    {
-      "basename": "第一节课",
-      "path": "概率统计和随机过程/第一节课.md"
-    },
-    {
-      "basename": "寒假计划",
-      "path": "010_FileBox/寒假计划.md"
-    },
-    {
-      "basename": "2025-02-21",
-      "path": "040_Dairy/2025-02-21.md"
-    },
-    {
-      "basename": "YAML - 维基百科，自由的百科全书",
-      "path": "060Clippings/Wikipedia/YAML - 维基百科，自由的百科全书.md"
-    },
-    {
-      "basename": "YAML 语言教程 - 阮一峰的网络日志",
-      "path": "060Clippings/阮一峰合集/YAML 语言教程 - 阮一峰的网络日志.md"
-    },
-    {
-      "basename": "2025-02-01",
-      "path": "040_Dairy/2025-02-01.md"
-    },
-    {
-      "basename": "2025-02-16",
-      "path": "040_Dairy/2025-02-16.md"
-    },
-    {
-      "basename": "2025-02-22",
-      "path": "040_Dairy/2025-02-22.md"
-    },
-    {
-      "basename": "2025-02-20",
-      "path": "040_Dairy/2025-02-20.md"
-    },
-    {
-      "basename": "2025-02-19",
-      "path": "040_Dairy/2025-02-19.md"
-    },
-    {
-      "basename": "22ADBC6EF3299889AFBC3C2C162AC682",
-      "path": "020_Attachment/图片/22ADBC6EF3299889AFBC3C2C162AC682.png"
-    },
-    {
-      "basename": "obsidian插件之dataview入门 - 经验分享 - Obsidian 中文论坛",
-      "path": "060Clippings/obsidian插件之dataview入门 - 经验分享 - Obsidian 中文论坛.md"
     }
   ],
   "omittedPaths": [],

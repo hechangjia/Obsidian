@@ -1,7 +1,7 @@
 {
   "readableLineLength": false,
   "strictLineBreaks": true,
-  "showLineNumber": true,
+  "showLineNumber": false,
   "autoPairMarkdown": false,
   "trashOption": "local",
   "promptDelete": false,
@@ -24,5 +24,7 @@
   "foldHeading": false,
   "livePreview": true,
   "defaultViewMode": "source",
-  "focusNewTab": true
+  "focusNewTab": true,
+  "autoConvertHtml": false,
+  "uriCallbacks": true
 }

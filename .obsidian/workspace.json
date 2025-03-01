@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "e6541d52df7e043d",
+            "id": "eaad40db84a66cf9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "040_Dairy/2025-02-27.md",
+                "file": "060Clippings/编程/各种开源协议介绍  菜鸟教程.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,16 +54,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-02-27"
+              "title": "各种开源协议介绍  菜鸟教程"
             }
           },
           {
-            "id": "69c9c16f67994a84",
+            "id": "2bbee4f5b4f4a7ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "060Clippings/missing-semester/课程概览与 shell.md",
+                "file": "030_Templater/日记模板.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -78,11 +78,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "课程概览与 shell"
+              "title": "日记模板"
+            }
+          },
+          {
+            "id": "dc728ffa3c771ac8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "040_Dairy/2025-03-01.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-03-01"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -145,7 +169,8 @@
               "title": "File Tree"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -176,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homepage.md",
+                "file": "040_Dairy/2025-02-28.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "2025-02-28 的大纲"
             }
           },
           {
@@ -243,12 +268,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "060Clippings/missing-semester/课程概览与 shell.md",
+                "file": "040_Dairy/2025-02-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "课程概览与 shell 的出链列表"
+              "title": "2025-02-27 的出链列表"
             }
           },
           {
@@ -325,7 +350,7 @@
     "hiddenItems": {
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "daily-notes:打开/创建今天的日记": false,
+      "daily-notes:打开/创建今天的日记": true,
       "templates:插入模板": false,
       "command-palette:打开命令面板": true,
       "random-note:开始漫游笔记": false,
@@ -345,15 +370,44 @@
       "media-extended:Open media": false,
       "obsidian-projects:打开项目": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "69c9c16f67994a84",
+  "active": "dc728ffa3c771ac8",
   "lastOpenFiles": [
+    "030_Templater/日记模板.md",
     "Homepage.md",
+    "060Clippings/编程/各种开源协议介绍  菜鸟教程.md",
+    "040_Dairy/2025-03-01.md",
+    "040_Dairy/2025-02-28.md",
+    "040_Dairy/2025-02-27.md",
+    "Excalidraw/Drawing 2025-03-01 15.34.09.excalidraw.md",
+    "030_Templater/Demo.md",
+    "Long-Term-Tasks.md",
+    "060Clippings/编程/Git/How to Write a Git Commit Message.md",
+    "020_Attachment/图片/IasV6.gif",
+    "020_Attachment/图片/IasV6.gif.crdownload",
+    "020_Attachment/图片/7gS9Q.png",
+    "020_Attachment/PDF资料/C语言书籍/浙大教材-教师用书/00 教师用书_前言 201702.pdf",
+    "020_Attachment/PDF资料/C语言书籍/C语言的科学和艺术.pdf",
+    "020_Attachment/PDF资料/C语言书籍/C语言程序设计第四版.pdf",
+    "020_Attachment/PDF资料/C语言书籍/浙大教材-教师用书/13 教师用书_第13章_综合程序设计 201702.pdf",
+    "020_Attachment/PDF资料/C语言书籍/浙大教材-教师用书/12 教师用书_第12章_文件 201702.pdf",
+    "020_Attachment/PDF资料/C语言书籍/浙大教材-教师用书/11 教师用书_第11章_指针进阶 201702.pdf",
+    "020_Attachment/PDF资料/C语言书籍/浙大教材-教师用书/10 教师用书_第10章_函数与程序结构 201702.pdf",
+    "020_Attachment/PDF资料/C语言书籍/浙大教材-教师用书/09 教师用书_第9章_结构 201702.pdf",
+    "020_Attachment/PDF资料/C语言书籍/浙大教材-教师用书/08 教师用书_第8章_指针 201702.pdf",
+    "020_Attachment/人物/Knuth.png",
+    "020_Attachment/人物/turing.jpeg",
+    "020_Attachment/人物/粘贴的图像.png",
+    "2025-02.md",
+    "040_Dairy/2025-03-29.md",
+    "dictionary.md",
+    "学期总结大纲.canvas",
+    "日常流程.md",
+    "Python学习笔记/Numpy.md",
+    "060Clippings/编程/Regular-Expression/Regular expression - Wikipedia.md",
     "060Clippings/missing-semester/课程概览与 shell.md",
-    "060Clippings/missing-semester",
     "Python学习笔记/Python中pip的作用.md",
     "Python学习笔记/Python中一些函数的用法.md",
     "Python学习笔记/Python中列表,集合,字典,元组的异同.md",
@@ -363,38 +417,12 @@
     "Obsidian学习记录/Dataview语法学习.md",
     "Excalidraw/Drawing 2025-01-14 22.18.37.excalidraw.md",
     "Excalidraw/Drawing 2025-01-02 11.52.16.excalidraw.md",
-    "DeepLearning/任选课.md",
-    "DeepLearning/残差神经网络 - 维基百科，自由的百科全书.md",
-    "040_Dairy/2025-02-27.md",
-    "060Clippings/编程/python",
-    "040_Dairy/2025-02-26.md",
-    "010_FileBox/看板.md",
-    "050_ReadingNotes/读书报告.md",
-    "030_Templater/读书笔记模板.md",
-    "030_Templater/Demo.md",
-    "040_Dairy/2025-02-24.md",
-    "030_Templater/日记模板.md",
-    "060Clippings/编程/Git/Git - 关于版本控制.md",
-    "060Clippings/编程/Git/工作流一目了然，看小姐姐用动图展示10大Git命令.md",
-    "020_Attachment/人物/turing.jpeg",
-    "020_Attachment/人物",
-    "070_学习经历总结/Python Numpy Tutorial (with Jupyter and Colab).md",
-    "060Clippings/人物/李飞飞 （Fei-Fei Li） 的简历 斯坦福概况 --- Fei-Fei Li's Profile  Stanford Profiles.md",
-    "060Clippings/Attention Attention!.md",
-    "DeepLearning",
-    "060Clippings/编程语言历史",
     "020_Attachment/Pasted image 20250225114651.png",
-    "070_学习经历总结",
-    "060Clippings/编程/Git",
-    "060Clippings/编程",
-    "060Clippings/人物",
     "020_Attachment/图片/22ADBC6EF3299889AFBC3C2C162AC682.png",
-    "Obsidian学习记录",
     "020_Attachment/图片/lovley.png",
     "020_Attachment/图片/beamer图片1.png",
     "020_Attachment/图片/雨疏风骤.png",
     "010_FileBox/如梦令--期末.canvas",
-    "学期总结大纲.canvas",
     "未命名.canvas",
     "王者荣耀经验总结.canvas"
   ]
