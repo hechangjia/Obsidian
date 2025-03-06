@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "01. 计算机早期历史-Early Computing.ass",
+      "path": "Reference-Book/(字幕)全40集中英字幕文本/01. 计算机早期历史-Early Computing.ass.md"
+    },
+    {
       "basename": "2025-03-01",
       "path": "040_Dairy/2025-03-01.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "W3Schools.com",
       "path": "060Clippings/编程/Git/W3Schools.com.md"
-    },
-    {
-      "basename": "'git' tag wiki",
-      "path": "060Clippings/编程/Git/'git' tag wiki.md"
     }
   ],
   "omittedPaths": [],

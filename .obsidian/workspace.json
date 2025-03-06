@@ -87,7 +87,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "040_Dairy/2025-03-01.md",
+                "file": "Reference-Book/(字幕)全40集中英字幕文本/01. 计算机早期历史-Early Computing.ass.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -102,7 +102,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-03-01"
+              "title": "01. 计算机早期历史-Early Computing.ass"
             }
           }
         ],
@@ -120,19 +120,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d0a5672b0705e32f",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "文件列表"
-            }
-          },
-          {
             "id": "85cf9a24f793fb4d",
             "type": "leaf",
             "state": {
@@ -147,6 +134,19 @@
               },
               "icon": "lucide-search",
               "title": "搜索"
+            }
+          },
+          {
+            "id": "699161ce89ece10d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -170,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -370,15 +370,28 @@
       "media-extended:Open media": false,
       "obsidian-projects:打开项目": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "dc728ffa3c771ac8",
+  "active": "699161ce89ece10d",
   "lastOpenFiles": [
+    "Reference-Book/(字幕)全40集中英字幕文本/40. 奇点,天网,计算机的未来-The Singularity, Skynet, and the Future of Computing.ass.txt",
+    "Reference-Book/(字幕)全40集中英字幕文本/39. 教育科技-Educational Technology.ass.txt",
+    "Reference-Book/(字幕)全40集中英字幕文本/38. 计算机心理学 - Psychology of Computing.ass.txt",
+    "Reference-Book/(字幕)全40集中英字幕文本/37. 机器人-Robots.ass.txt",
+    "Reference-Book/(字幕)全40集中英字幕文本/36. 自然语言处理-Natural Language Processing.ass.txt",
+    "Reference-Book/(字幕)全40集中英字幕文本/35. 计算机视觉-Computer Vision.ass.txt",
+    "Reference-Book/(字幕)全40集中英字幕文本/34. 机器学习&人工智能-Machine Learning & Artificial Intelligence.ass.txt",
+    "Reference-Book/(字幕)全40集中英字幕文本/33. 加密-Cryptography.ass.txt",
+    "Reference-Book/(字幕)全40集中英字幕文本/32. 黑客&攻击-Hackers & Cyber Attacks.ass.txt",
+    "Reference-Book/(字幕)全40集中英字幕文本/31. 计算机安全-Cybersecurity.ass.txt",
+    "Reference-Book/(字幕)全40集中英字幕文本/30. 万维网-The World Wide Web.ass.txt",
+    "040_Dairy/2025-03-01.md",
+    "Reference-Book/(字幕)全40集中英字幕文本/01. 计算机早期历史-Early Computing.ass.md",
     "030_Templater/日记模板.md",
     "Homepage.md",
     "060Clippings/编程/各种开源协议介绍  菜鸟教程.md",
-    "040_Dairy/2025-03-01.md",
     "040_Dairy/2025-02-28.md",
     "040_Dairy/2025-02-27.md",
     "Excalidraw/Drawing 2025-03-01 15.34.09.excalidraw.md",
@@ -386,17 +399,7 @@
     "Long-Term-Tasks.md",
     "060Clippings/编程/Git/How to Write a Git Commit Message.md",
     "020_Attachment/图片/IasV6.gif",
-    "020_Attachment/图片/IasV6.gif.crdownload",
     "020_Attachment/图片/7gS9Q.png",
-    "020_Attachment/PDF资料/C语言书籍/浙大教材-教师用书/00 教师用书_前言 201702.pdf",
-    "020_Attachment/PDF资料/C语言书籍/C语言的科学和艺术.pdf",
-    "020_Attachment/PDF资料/C语言书籍/C语言程序设计第四版.pdf",
-    "020_Attachment/PDF资料/C语言书籍/浙大教材-教师用书/13 教师用书_第13章_综合程序设计 201702.pdf",
-    "020_Attachment/PDF资料/C语言书籍/浙大教材-教师用书/12 教师用书_第12章_文件 201702.pdf",
-    "020_Attachment/PDF资料/C语言书籍/浙大教材-教师用书/11 教师用书_第11章_指针进阶 201702.pdf",
-    "020_Attachment/PDF资料/C语言书籍/浙大教材-教师用书/10 教师用书_第10章_函数与程序结构 201702.pdf",
-    "020_Attachment/PDF资料/C语言书籍/浙大教材-教师用书/09 教师用书_第9章_结构 201702.pdf",
-    "020_Attachment/PDF资料/C语言书籍/浙大教材-教师用书/08 教师用书_第8章_指针 201702.pdf",
     "020_Attachment/人物/Knuth.png",
     "020_Attachment/人物/turing.jpeg",
     "020_Attachment/人物/粘贴的图像.png",
@@ -415,8 +418,6 @@
     "Python学习笔记/Python和C类语言的一些区别.md",
     "Python学习笔记/EricsBroadcastingDoc - SciPy wiki dump.md",
     "Obsidian学习记录/Dataview语法学习.md",
-    "Excalidraw/Drawing 2025-01-14 22.18.37.excalidraw.md",
-    "Excalidraw/Drawing 2025-01-02 11.52.16.excalidraw.md",
     "020_Attachment/Pasted image 20250225114651.png",
     "020_Attachment/图片/22ADBC6EF3299889AFBC3C2C162AC682.png",
     "020_Attachment/图片/lovley.png",
