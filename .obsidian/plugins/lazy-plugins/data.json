@@ -151,6 +151,12 @@
       },
       "obsidian-projects": {
         "startupType": "instant"
+      },
+      "markwhen": {
+        "startupType": "instant"
+      },
+      "mermaid-tools": {
+        "startupType": "disabled"
       }
     }
   }

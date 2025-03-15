@@ -104,9 +104,33 @@
               "icon": "lucide-file",
               "title": "01. 计算机早期历史-Early Computing.ass"
             }
+          },
+          {
+            "id": "75636bf28e481c04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "040_Dairy/2025-02-26.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-02-26"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -119,6 +143,19 @@
         "id": "faadbae5acacbc3e",
         "type": "tabs",
         "children": [
+          {
+            "id": "699161ce89ece10d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
           {
             "id": "85cf9a24f793fb4d",
             "type": "leaf",
@@ -134,19 +171,6 @@
               },
               "icon": "lucide-search",
               "title": "搜索"
-            }
-          },
-          {
-            "id": "699161ce89ece10d",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "文件列表"
             }
           },
           {
@@ -170,7 +194,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -243,6 +267,16 @@
               "state": {},
               "icon": "lucide-file",
               "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "16696794e30be81c",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
             }
           }
         ]
@@ -370,12 +404,22 @@
       "media-extended:Open media": false,
       "obsidian-projects:打开项目": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
+      "markwhen:Create new Markwhen file": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "699161ce89ece10d",
+  "active": "75636bf28e481c04",
   "lastOpenFiles": [
+    "dictionary.md",
+    "vaswaniAttentionAllYou2023.md",
+    "010_FileBox/mermaid.md",
+    "Reference-Book/(字幕)全40集中英字幕文本/01. 计算机早期历史-Early Computing.ass.md",
+    "reviewdatabase.md",
+    "Excalidraw/Drawing 2025-03-10 18.02.54.excalidraw.md",
+    "Markwhen/Markwhen 3-9-2025 15.52.06.mw",
+    "Markwhen",
     "Reference-Book/(字幕)全40集中英字幕文本/40. 奇点,天网,计算机的未来-The Singularity, Skynet, and the Future of Computing.ass.txt",
     "Reference-Book/(字幕)全40集中英字幕文本/39. 教育科技-Educational Technology.ass.txt",
     "Reference-Book/(字幕)全40集中英字幕文本/38. 计算机心理学 - Psychology of Computing.ass.txt",
@@ -384,11 +428,7 @@
     "Reference-Book/(字幕)全40集中英字幕文本/35. 计算机视觉-Computer Vision.ass.txt",
     "Reference-Book/(字幕)全40集中英字幕文本/34. 机器学习&人工智能-Machine Learning & Artificial Intelligence.ass.txt",
     "Reference-Book/(字幕)全40集中英字幕文本/33. 加密-Cryptography.ass.txt",
-    "Reference-Book/(字幕)全40集中英字幕文本/32. 黑客&攻击-Hackers & Cyber Attacks.ass.txt",
-    "Reference-Book/(字幕)全40集中英字幕文本/31. 计算机安全-Cybersecurity.ass.txt",
-    "Reference-Book/(字幕)全40集中英字幕文本/30. 万维网-The World Wide Web.ass.txt",
     "040_Dairy/2025-03-01.md",
-    "Reference-Book/(字幕)全40集中英字幕文本/01. 计算机早期历史-Early Computing.ass.md",
     "030_Templater/日记模板.md",
     "Homepage.md",
     "060Clippings/编程/各种开源协议介绍  菜鸟教程.md",
@@ -405,7 +445,6 @@
     "020_Attachment/人物/粘贴的图像.png",
     "2025-02.md",
     "040_Dairy/2025-03-29.md",
-    "dictionary.md",
     "学期总结大纲.canvas",
     "日常流程.md",
     "Python学习笔记/Numpy.md",
@@ -415,9 +454,6 @@
     "Python学习笔记/Python中一些函数的用法.md",
     "Python学习笔记/Python中列表,集合,字典,元组的异同.md",
     "Python学习笔记/Python小结.md",
-    "Python学习笔记/Python和C类语言的一些区别.md",
-    "Python学习笔记/EricsBroadcastingDoc - SciPy wiki dump.md",
-    "Obsidian学习记录/Dataview语法学习.md",
     "020_Attachment/Pasted image 20250225114651.png",
     "020_Attachment/图片/22ADBC6EF3299889AFBC3C2C162AC682.png",
     "020_Attachment/图片/lovley.png",

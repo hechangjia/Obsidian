@@ -1,0 +1,811 @@
+{
+  "categories": {
+    "Flowchart": "Flowchart",
+    "SequenceDiagram": "SequenceDiagram",
+    "ClassDiagram": "ClassDiagram",
+    "StateDiagram": "StateDiagram",
+    "EntityRelationshipDiagram": "EntityRelationshipDiagram",
+    "UserJourneyDiagram": "UserJourneyDiagram",
+    "GanttChart": "GanttChart",
+    "PieChart": "PieChart",
+    "RequirementDiagram": "RequirementDiagram",
+    "GitGraph": "GitGraph",
+    "Mindmap": "Mindmap",
+    "Timeline": "Timeline",
+    "C4Diagram": "C4Diagram",
+    "QuadrantChart": "QuadrantChart",
+    "SankeyDiagram": "SankeyDiagram",
+    "XyChart": "XyChart",
+    "Kanban": "Kanban",
+    "Architecture": "Architecture",
+    "Block": "Block",
+    "Packet": "Packet"
+  },
+  "elements": [
+    {
+      "id": "218adc35-6202-402c-8e04-0792ff100f6b",
+      "category": "Flowchart",
+      "description": "a simple flowchart with top to down direction",
+      "content": "flowchart TD\nStart --> Stop",
+      "sortingOrder": 1,
+      "isPinned": false
+    },
+    {
+      "id": "3428f739-9b65-4229-acd0-0877a6e8583b",
+      "category": "Flowchart",
+      "description": "a simple flowchart with left to right direction",
+      "content": "flowchart LR\nStart --> Stop",
+      "sortingOrder": 2,
+      "isPinned": false
+    },
+    {
+      "id": "f5137943-98f9-4c06-a840-72427c85b9df",
+      "category": "Flowchart",
+      "description": "A node with round edges",
+      "content": "id1(Some text)",
+      "sortingOrder": 3,
+      "isPinned": false
+    },
+    {
+      "id": "de5fb34f-ae9e-4283-971b-881a349cbcb1",
+      "category": "Flowchart",
+      "description": "A stadium-shaped node",
+      "content": "id1([Some text])",
+      "sortingOrder": 4,
+      "isPinned": false
+    },
+    {
+      "id": "a5b88159-d051-45fe-b29a-b1ac4083f03d",
+      "category": "Flowchart",
+      "description": "A node in a cylindrical shape",
+      "content": "id1[(Database)]",
+      "sortingOrder": 5,
+      "isPinned": false
+    },
+    {
+      "id": "7d4f2640-7d41-4008-aa67-97a0335d7c7d",
+      "category": "Flowchart",
+      "description": "Circle",
+      "content": "id1((Some text))",
+      "sortingOrder": 6,
+      "isPinned": false
+    },
+    {
+      "id": "583935b3-b2f2-4888-9749-7d29882a869d",
+      "category": "Flowchart",
+      "description": "Rhombus",
+      "content": "id1{Some text}",
+      "sortingOrder": 7,
+      "isPinned": false
+    },
+    {
+      "id": "9e34e31f-3fb6-4091-ac8a-4cca5003ac32",
+      "category": "Flowchart",
+      "description": "Hexagon",
+      "content": "id1{{Some text}}",
+      "sortingOrder": 8,
+      "isPinned": false
+    },
+    {
+      "id": "1f06e3a7-a456-44a8-b8b5-26f3a72b294f",
+      "category": "Flowchart",
+      "description": "Parallelogram skewed right",
+      "content": "id1[/Some text/]",
+      "sortingOrder": 9,
+      "isPinned": false
+    },
+    {
+      "id": "3956e4b5-1f99-4261-8ca6-28941f4ea915",
+      "category": "Flowchart",
+      "description": "Parallelogram skewed left",
+      "content": "id1[\\Some text\\]",
+      "sortingOrder": 10,
+      "isPinned": false
+    },
+    {
+      "id": "34e300de-79ae-4d54-9f4a-eda4bdb005b6",
+      "category": "Flowchart",
+      "description": "Trapezoid",
+      "content": "A[/Some text\\]",
+      "sortingOrder": 11,
+      "isPinned": false
+    },
+    {
+      "id": "a2536c3b-d119-44af-bc4d-57fcc450d86a",
+      "category": "Flowchart",
+      "description": "Trapezoid upside down",
+      "content": "A[\\Some text/]",
+      "sortingOrder": 12,
+      "isPinned": false
+    },
+    {
+      "id": "da61265b-5c6a-4c66-92e0-750fc740e7c4",
+      "category": "Flowchart",
+      "description": "Double circle node",
+      "content": "id1(((Some text)))",
+      "sortingOrder": 13,
+      "isPinned": false
+    },
+    {
+      "id": "70de9f1f-da2e-407e-830f-ad35a00e49ff",
+      "category": "Flowchart",
+      "description": "A link with arrow head",
+      "content": "A-->B",
+      "sortingOrder": 14,
+      "isPinned": false
+    },
+    {
+      "id": "714877f8-bbb0-4f2e-9e49-6c28767f9ac8",
+      "category": "Flowchart",
+      "description": "An open link",
+      "content": "A --- B",
+      "sortingOrder": 15,
+      "isPinned": false
+    },
+    {
+      "id": "96bce8bb-f72d-4ae1-bef4-46a678fcfd6e",
+      "category": "Flowchart",
+      "description": "Text on links",
+      "content": "A-- This is the text! ---B",
+      "sortingOrder": 16,
+      "isPinned": false
+    },
+    {
+      "id": "659ef82d-1556-4644-933c-8d1fdc938ca3",
+      "category": "Flowchart",
+      "description": "A link with arrow head and text",
+      "content": "A-->|text|B",
+      "sortingOrder": 17,
+      "isPinned": false
+    },
+    {
+      "id": "a5af8e3c-d73f-4a74-baa4-c4f81ec988ff",
+      "category": "Flowchart",
+      "description": "Dotted link",
+      "content": "A-.->B",
+      "sortingOrder": 18,
+      "isPinned": false
+    },
+    {
+      "id": "47488e7b-ff7d-4d22-b18a-1a48fca5ae49",
+      "category": "Flowchart",
+      "description": "Thick link",
+      "content": "A ==> B",
+      "sortingOrder": 19,
+      "isPinned": false
+    },
+    {
+      "id": "c785af9f-0a9a-4e58-a541-67545e8cb145",
+      "category": "Flowchart",
+      "description": "Invisible link",
+      "content": "A ~~~ B",
+      "sortingOrder": 20,
+      "isPinned": false
+    },
+    {
+      "id": "71fcc4e0-8eb4-4bb8-97f6-781f4f3bcfe2",
+      "category": "Flowchart",
+      "description": "Link with circle edge",
+      "content": "A --o B",
+      "sortingOrder": 21,
+      "isPinned": false
+    },
+    {
+      "id": "9e6f5542-0350-49a4-b764-3512b854a5e1",
+      "category": "Flowchart",
+      "description": "Link with cross edge",
+      "content": "A --x B",
+      "sortingOrder": 22,
+      "isPinned": false
+    },
+    {
+      "id": "e5c8d437-8fb8-4d9d-b4f5-1c9769ee71e2",
+      "category": "Flowchart",
+      "description": "Subgraph",
+      "content": "subgraph one\na1-->a2\nend",
+      "sortingOrder": 14,
+      "isPinned": false
+    },
+    {
+      "id": "d0522777-d09d-42bf-86ea-94006589bd82",
+      "category": "SequenceDiagram",
+      "description": "a simple sequence diagram",
+      "content": "sequenceDiagram\nAlice->>John: Hello John, how are you?\nJohn-->>Alice: Great!\nAlice-)John: See you later!",
+      "sortingOrder": 0,
+      "isPinned": false
+    },
+    {
+      "id": "20545a2e-81c1-4400-a5ee-51c979b9807f",
+      "category": "SequenceDiagram",
+      "description": "a simple sequence diagram with actors",
+      "content": "sequenceDiagram\nactor Alice\nactor John\nAlice->>John: Hello John, how are you?\nJohn-->>Alice: Great!\nAlice-)John: See you later!",
+      "sortingOrder": 1,
+      "isPinned": false
+    },
+    {
+      "id": "154721c9-cfc1-4aeb-8df1-bd4611dfd163",
+      "category": "ClassDiagram",
+      "description": "sample class",
+      "content": "class Duck{\n            +String beakColor\n            +swim()\n            +quack()\n        }",
+      "sortingOrder": 0,
+      "isPinned": false
+    },
+    {
+      "id": "e928d8a5-e4cb-4600-a346-edd1c412af2f",
+      "category": "ClassDiagram",
+      "description": "sample class",
+      "content": "class BankAccount\n        BankAccount : +String owner\n        BankAccount : +Bigdecimal balance\n        BankAccount : +deposit(amount)\n        BankAccount : +withdrawal(amount)",
+      "sortingOrder": 1,
+      "isPinned": false
+    },
+    {
+      "id": "4cb9fe29-fc8e-467c-8832-6ac0eed3deb5",
+      "category": "ClassDiagram",
+      "description": "generic class",
+      "content": "class Square~Shape~{\n            int id\n            List~int~ position\n            setPoints(List~int~ points)\n            getPoints() List~int~\n        }\n        \n        Square : -List~string~ messages\n        Square : +setMessages(List~string~ messages)\n        Square : +getMessages() List~string~",
+      "sortingOrder": 2,
+      "isPinned": false
+    },
+    {
+      "id": "da03eab7-76b0-4213-8f2b-bd3e2a14fca1",
+      "category": "ClassDiagram",
+      "description": "inheritance",
+      "content": "classA <|-- classB",
+      "sortingOrder": 3,
+      "isPinned": false
+    },
+    {
+      "id": "9653b135-870b-4870-ab81-0ca99127db70",
+      "category": "ClassDiagram",
+      "description": "composition",
+      "content": "classC *-- classD",
+      "sortingOrder": 4,
+      "isPinned": false
+    },
+    {
+      "id": "c5f1d627-9f30-4f30-8655-2001d6aff0d4",
+      "category": "ClassDiagram",
+      "description": "aggregation",
+      "content": "classE o-- classF",
+      "sortingOrder": 5,
+      "isPinned": false
+    },
+    {
+      "id": "b23204ee-85c1-4ff0-a904-6eada0db23f7",
+      "category": "ClassDiagram",
+      "description": "association",
+      "content": "classG <-- classH",
+      "sortingOrder": 6,
+      "isPinned": false
+    },
+    {
+      "id": "df38f465-bef7-4d9c-9bb8-40c2f38e0603",
+      "category": "ClassDiagram",
+      "description": "solid link",
+      "content": "classI -- classJ",
+      "sortingOrder": 7,
+      "isPinned": false
+    },
+    {
+      "id": "452acfa6-3fd6-4498-8f56-7e5eda49e89e",
+      "category": "ClassDiagram",
+      "description": "dependency",
+      "content": "classK <.. classL",
+      "sortingOrder": 8,
+      "isPinned": false
+    },
+    {
+      "id": "30501304-8c60-4110-8c42-9dc6c5e03db0",
+      "category": "ClassDiagram",
+      "description": "realization",
+      "content": "classM <|.. classN",
+      "sortingOrder": 9,
+      "isPinned": false
+    },
+    {
+      "id": "2e5d2637-bc87-4025-898c-fd4d531c6a55",
+      "category": "ClassDiagram",
+      "description": "dashed link",
+      "content": "classO .. classP",
+      "sortingOrder": 10,
+      "isPinned": false
+    },
+    {
+      "id": "674649cb-303f-4c40-a5ae-b503e2585e7d",
+      "category": "ClassDiagram",
+      "description": "two-way relation",
+      "content": "Animal <|--|> Zebra",
+      "sortingOrder": 11,
+      "isPinned": false
+    },
+    {
+      "id": "283c0ffb-51ac-488a-ad9b-481264fcb121",
+      "category": "ClassDiagram",
+      "description": "sample class diagram",
+      "content": "classDiagram\n        Animal <|-- Duck\n        Animal <|-- Fish\n        Animal <|-- Zebra\n        Animal : +int age\n        Animal : +String gender\n        Animal: +isMammal()\n        Animal: +mate()\n        class Duck{\n            +String beakColor\n            +swim()\n            +quack()\n        }\n        class Fish{\n            -int sizeInFeet\n            -canEat()\n        }\n        class Zebra{\n            +bool is_wild\n            +run()\n        }",
+      "sortingOrder": 12,
+      "isPinned": false
+    },
+    {
+      "id": "9429532f-d193-4cb2-baee-81c660ba0b82",
+      "category": "StateDiagram",
+      "description": "a sample state diagram",
+      "content": "stateDiagram-v2\n        [*] --> Still\n        Still --> [*]\n    \n        Still --> Moving\n        Moving --> Still\n        Moving --> Crash\n        Crash --> [*]",
+      "sortingOrder": 0,
+      "isPinned": false
+    },
+    {
+      "id": "29934aca-2897-41a9-8f86-398419561c75",
+      "category": "StateDiagram",
+      "description": "a sample state diagram with left-to-right direction",
+      "content": "stateDiagram-v2\n        direction LR\n        [*] --> Still\n        Still --> [*]\n    \n        Still --> Moving\n        Moving --> Still\n        Moving --> Crash\n        Crash --> [*]",
+      "sortingOrder": 1,
+      "isPinned": false
+    },
+    {
+      "id": "cf3c599f-0d6d-4605-ac32-57ba343933f2",
+      "category": "StateDiagram",
+      "description": "node with description",
+      "content": "s2 : This is a state description",
+      "sortingOrder": 2,
+      "isPinned": false
+    },
+    {
+      "id": "d19fd379-0618-4d1f-a77a-c78d6348dda4",
+      "category": "StateDiagram",
+      "description": "a transition",
+      "content": "s1 --> s2",
+      "sortingOrder": 3,
+      "isPinned": false
+    },
+    {
+      "id": "18584b3d-0e41-48bc-aaa3-137fffb40bb6",
+      "category": "StateDiagram",
+      "description": "a transition with label",
+      "content": "s1 --> s2: A transition",
+      "sortingOrder": 4,
+      "isPinned": false
+    },
+    {
+      "id": "40864973-5725-4a23-831b-03473754541d",
+      "category": "StateDiagram",
+      "description": "composite state",
+      "content": "\n        [*] --> First\n        state First {\n            [*] --> second\n            second --> [*]\n        }",
+      "sortingOrder": 5,
+      "isPinned": false
+    },
+    {
+      "id": "92417917-9f4b-4c71-b2a6-883ffb9492c5",
+      "category": "StateDiagram",
+      "description": "diagram with choice",
+      "content": "stateDiagram-v2\n        state if_state <<choice>>\n        [*] --> IsPositive\n        IsPositive --> if_state\n        if_state --> False: if n < 0\n        if_state --> True : if n >= 0",
+      "sortingOrder": 6,
+      "isPinned": false
+    },
+    {
+      "id": "c1693f28-facd-46f0-9baf-7de0d3e22bce",
+      "category": "StateDiagram",
+      "description": "diagram with fork",
+      "content": "stateDiagram-v2\n        state fork_state <<fork>>\n          [*] --> fork_state\n          fork_state --> State2\n          fork_state --> State3\n    \n          state join_state <<join>>\n          State2 --> join_state\n          State3 --> join_state\n          join_state --> State4\n          State4 --> [*]",
+      "sortingOrder": 7,
+      "isPinned": false
+    },
+    {
+      "id": "eccb8d00-5aa9-4b1b-a416-daabf1139fa9",
+      "category": "StateDiagram",
+      "description": "a diagram with concurrency",
+      "content": "stateDiagram-v2\n        [*] --> Active\n    \n        state Active {\n            [*] --> NumLockOff\n            NumLockOff --> NumLockOn : EvNumLockPressed\n            NumLockOn --> NumLockOff : EvNumLockPressed\n            --\n            [*] --> CapsLockOff\n            CapsLockOff --> CapsLockOn : EvCapsLockPressed\n            CapsLockOn --> CapsLockOff : EvCapsLockPressed\n            --\n            [*] --> ScrollLockOff\n            ScrollLockOff --> ScrollLockOn : EvScrollLockPressed\n            ScrollLockOn --> ScrollLockOff : EvScrollLockPressed\n        }",
+      "sortingOrder": 8,
+      "isPinned": false
+    },
+    {
+      "id": "0ea51feb-6ea8-4243-a766-d45053b1250d",
+      "category": "EntityRelationshipDiagram",
+      "description": "a sample entity relationship diagram",
+      "content": "erDiagram\n        CUSTOMER ||--o{ ORDER : places\n        ORDER ||--|{ LINE-ITEM : contains\n        CUSTOMER }|..|{ DELIVERY-ADDRESS : uses",
+      "sortingOrder": 0,
+      "isPinned": false
+    },
+    {
+      "id": "2d3aff32-280d-4c90-9db2-14d1c5b7565c",
+      "category": "EntityRelationshipDiagram",
+      "description": "an entity",
+      "content": "    CUSTOMER {\n            string name\n            string custNumber\n            string sector\n        }",
+      "sortingOrder": 1,
+      "isPinned": false
+    },
+    {
+      "id": "05d5ea54-b283-488c-a232-9ed30deddf72",
+      "category": "EntityRelationshipDiagram",
+      "description": "one-to-many relationship",
+      "content": "A ||--|{ B : label",
+      "sortingOrder": 2,
+      "isPinned": false
+    },
+    {
+      "id": "b81f093a-68a5-490f-8dba-2650aba97480",
+      "category": "EntityRelationshipDiagram",
+      "description": "many-to-many relationship",
+      "content": "A }|--|{ B : label",
+      "sortingOrder": 3,
+      "isPinned": false
+    },
+    {
+      "id": "e6ffbc17-2bdc-4f81-9b27-4d6e9fcbb937",
+      "category": "EntityRelationshipDiagram",
+      "description": "one-to-one relationship",
+      "content": "A ||--|| B : label",
+      "sortingOrder": 4,
+      "isPinned": false
+    },
+    {
+      "id": "bb3028e4-1e8f-49d2-bcc6-5f8ec356686a",
+      "category": "EntityRelationshipDiagram",
+      "description": "many-to-one relationship",
+      "content": "A }|--|| B : label",
+      "sortingOrder": 5,
+      "isPinned": false
+    },
+    {
+      "id": "6493075c-f0c9-4ba9-99af-7c1b1267abd3",
+      "category": "EntityRelationshipDiagram",
+      "description": "zero/one-to-one relationship",
+      "content": "A |o--|| B : label",
+      "sortingOrder": 6,
+      "isPinned": false
+    },
+    {
+      "id": "bfa9fe8d-051b-4586-aaea-4da91d92ee7a",
+      "category": "EntityRelationshipDiagram",
+      "description": "one-to-one/zero relationship",
+      "content": "A ||--o| B : label",
+      "sortingOrder": 7,
+      "isPinned": false
+    },
+    {
+      "id": "08d3072a-b336-427c-8609-b914cd9be3b3",
+      "category": "EntityRelationshipDiagram",
+      "description": "zero-or-more-to-one relationship",
+      "content": "A }o--|| B : label",
+      "sortingOrder": 8,
+      "isPinned": false
+    },
+    {
+      "id": "94ab9467-7900-4bb3-b2b8-db6344babed5",
+      "category": "EntityRelationshipDiagram",
+      "description": "one-to-zero-or-more relationship",
+      "content": "A ||--o{ B : label",
+      "sortingOrder": 9,
+      "isPinned": false
+    },
+    {
+      "id": "b213276e-a014-4d07-a8fd-7c61ac77fc44",
+      "category": "EntityRelationshipDiagram",
+      "description": "zero-or-more-to-many relationship",
+      "content": "A }o--|{ B : label",
+      "sortingOrder": 10,
+      "isPinned": false
+    },
+    {
+      "id": "98a5f526-af24-41d5-8c26-e126c88f4540",
+      "category": "EntityRelationshipDiagram",
+      "description": "many-to-zero-or-more relationship",
+      "content": "A }|--o{ B : label",
+      "sortingOrder": 11,
+      "isPinned": false
+    },
+    {
+      "id": "9e93c6ca-0e14-4ac9-98d8-af55f6eed982",
+      "category": "UserJourneyDiagram",
+      "description": "a sample user journey diagram",
+      "content": "journey\n        title My working day\n        section Go to work\n          Make tea: 5: Me\n          Go upstairs: 3: Me\n          Do work: 1: Me, Cat\n        section Go home\n          Go downstairs: 5: Me\n          Sit down: 5: Me",
+      "sortingOrder": 0,
+      "isPinned": false
+    },
+    {
+      "id": "3a5faef1-311a-4f14-a472-359a5064192c",
+      "category": "UserJourneyDiagram",
+      "description": "a step in user journey",
+      "content": "      Step Title: 5: ActorName",
+      "sortingOrder": 1,
+      "isPinned": false
+    },
+    {
+      "id": "8588c105-b2d4-4dc0-8f65-43fd28f59867",
+      "category": "GanttChart",
+      "description": "simple gantt chart",
+      "content": "gantt\n        title A Gantt Diagram\n        dateFormat  YYYY-MM-DD\n        section Section\n        A task           :a1, 2014-01-01, 30d\n        Another task     :after a1  , 20d\n        section Another\n        Task in sec      :2014-01-12  , 12d\n        another task      : 24d",
+      "sortingOrder": 0,
+      "isPinned": false
+    },
+    {
+      "id": "8a1984de-0757-482b-bd96-c050cb47cc0c",
+      "category": "GanttChart",
+      "description": "rich gantt chart",
+      "content": "gantt\n        dateFormat  YYYY-MM-DD\n        title       Adding GANTT diagram functionality to mermaid\n        excludes    weekends\n    \n        section A section\n        Completed task            :done,    des1, 2014-01-06,2014-01-08\n        Active task               :active,  des2, 2014-01-09, 3d\n        Future task               :         des3, after des2, 5d\n        Future task2              :         des4, after des3, 5d\n    \n        section Critical tasks\n        Completed task in the critical line :crit, done, 2014-01-06,24h\n        Implement parser and jison          :crit, done, after des1, 2d\n        Create tests for parser             :crit, active, 3d\n        Future task in critical line        :crit, 5d\n        Create tests for renderer           :2d\n        Add to mermaid                      :1d\n        Functionality added                 :milestone, 2014-01-25, 0d\n    \n        section Documentation\n        Describe gantt syntax               :active, a1, after des1, 3d\n        Add gantt diagram to demo page      :after a1  , 20h\n        Add another diagram to demo page    :doc1, after a1  , 48h\n    \n        section Last section\n        Describe gantt syntax               :after doc1, 3d\n        Add gantt diagram to demo page      :20h\n        Add another diagram to demo page    :48h",
+      "sortingOrder": 1,
+      "isPinned": false
+    },
+    {
+      "id": "b2192501-bc68-4463-9e7d-627459a7aed5",
+      "category": "GanttChart",
+      "description": "milestones example",
+      "content": "gantt\n        dateFormat HH:mm\n        axisFormat %H:%M\n        Initial milestone : milestone, m1, 17:49,2min\n        taska2 : 10min\n        taska3 : 5min\n        Final milestone : milestone, m2, 18:14, 2min",
+      "sortingOrder": 2,
+      "isPinned": false
+    },
+    {
+      "id": "ef0f3fc1-ea75-4dbe-8c41-a3af0885a0bb",
+      "category": "PieChart",
+      "description": "sample pie chart",
+      "content": "pie title /r/obsidianmd posts by type\n        \"Graphs\" : 85\n        \"Dashboards\" : 14\n        \"Tips\" : 1",
+      "sortingOrder": 0,
+      "isPinned": false
+    },
+    {
+      "id": "23f84a7d-6db8-4588-b56d-abedc4cc56ec",
+      "category": "PieChart",
+      "description": "sample pie chart with values shown in legend",
+      "content": "pie showData title /r/obsidianmd posts by type\n        \"Graphs\" : 85\n        \"Dashboards\" : 14\n        \"Tips\" : 1",
+      "sortingOrder": 1,
+      "isPinned": false
+    },
+    {
+      "id": "dc78aaac-cc2a-42c5-8ab6-1fcedcb56efa",
+      "category": "RequirementDiagram",
+      "description": "sample requirements diagram",
+      "content": "    requirementDiagram\n\n        requirement test_req {\n        id: 1\n        text: the test text.\n        risk: high\n        verifymethod: test\n        }\n    \n        element test_entity {\n        type: simulation\n        }\n    \n        test_entity - satisfies -> test_req",
+      "sortingOrder": 0,
+      "isPinned": false
+    },
+    {
+      "id": "bf6e059c-cb20-4dd5-b8ba-a17f9d5167fb",
+      "category": "RequirementDiagram",
+      "description": "sample requirements diagram",
+      "content": "element customElement {\n            type: customType\n            docref: customDocRef\n        }",
+      "sortingOrder": 1,
+      "isPinned": false
+    },
+    {
+      "id": "90f7ad8d-0d59-4800-81c2-83948fef7ea9",
+      "category": "RequirementDiagram",
+      "description": "a requirement with high risk",
+      "content": "functionalRequirement myReq {\n            id: reqId\n            text: someText\n            risk: High\n            verifymethod: analysis\n        }",
+      "sortingOrder": 2,
+      "isPinned": false
+    },
+    {
+      "id": "7fbbf584-3dc3-4ad8-968f-997ea112a6f0",
+      "category": "RequirementDiagram",
+      "description": "sample requirements diagram",
+      "content": "interfaceRequirement myReq2 {\n            id: reqId\n            text: someText\n            risk: Medium\n            verifymethod: demonstration\n        }",
+      "sortingOrder": 3,
+      "isPinned": false
+    },
+    {
+      "id": "c3772226-963a-4481-b9ed-96b9050cda92",
+      "category": "RequirementDiagram",
+      "description": "sample requirements diagram",
+      "content": "designConstraint myReq3 {\n            id: reqId\n            text: someText\n            risk: Low\n            verifymethod: test\n        }",
+      "sortingOrder": 4,
+      "isPinned": false
+    },
+    {
+      "id": "fb09a272-d1ec-4a60-9ecb-9a00168bbe17",
+      "category": "GitGraph",
+      "description": "simple git graph",
+      "content": "gitGraph\n        commit\n        commit\n        branch develop\n        checkout develop\n        commit\n        commit\n        checkout main\n        merge develop\n        commit\n        commit",
+      "sortingOrder": 0,
+      "isPinned": false
+    },
+    {
+      "id": "f1bdd919-4a30-48f3-b978-59f031361961",
+      "category": "GitGraph",
+      "description": "tagged commit",
+      "content": "commit id: \"Normal\" tag: \"v1.0.0\"",
+      "sortingOrder": 1,
+      "isPinned": false
+    },
+    {
+      "id": "c95cae6a-083c-4db8-b4bc-67e10c888e2f",
+      "category": "GitGraph",
+      "description": "reverse commit",
+      "content": "commit id: \"Reverse\" type: REVERSE",
+      "sortingOrder": 2,
+      "isPinned": false
+    },
+    {
+      "id": "db827952-2738-428c-932b-15f7d120b0a7",
+      "category": "GitGraph",
+      "description": "highlighted commit",
+      "content": "commit id: \"Highlight\" type: HIGHLIGHT",
+      "sortingOrder": 3,
+      "isPinned": false
+    },
+    {
+      "id": "95ca69d8-e9ef-46e5-9690-9809079a6476",
+      "category": "GitGraph",
+      "description": "reverse commit",
+      "content": "commit id: \"Reverse\" type: REVERSE",
+      "sortingOrder": 4,
+      "isPinned": false
+    },
+    {
+      "id": "400015e1-7fad-4e2f-bf4d-3b48d98a8d93",
+      "category": "GitGraph",
+      "description": "git graph with cherry-pick",
+      "content": "gitGraph\n        commit id: \"ZERO\"\n        branch develop\n        commit id:\"A\"\n        checkout main\n        commit id:\"ONE\"\n        checkout develop\n        commit id:\"B\"\n        checkout main\n        commit id:\"TWO\"\n        cherry-pick id:\"A\"\n        commit id:\"THREE\"\n        checkout develop\n        commit id:\"C\"",
+      "sortingOrder": 5,
+      "isPinned": false
+    },
+    {
+      "id": "b324a9ee-fe3d-4a98-b56b-ce7343fd4540",
+      "category": "Mindmap",
+      "description": "a simple mindmap",
+      "content": "mindmap\n        Root\n            A\n              B\n              C",
+      "sortingOrder": 1,
+      "isPinned": false
+    },
+    {
+      "id": "2d1c5b5f-76af-4737-96be-d64d7a69629a",
+      "category": "Mindmap",
+      "description": "square",
+      "content": "id[I am a square]",
+      "sortingOrder": 2,
+      "isPinned": false
+    },
+    {
+      "id": "28976356-a3e8-41c2-b4f2-1e20b2887b98",
+      "category": "Mindmap",
+      "description": "rounded square",
+      "content": "id(I am a rounded square)",
+      "sortingOrder": 3,
+      "isPinned": false
+    },
+    {
+      "id": "45d7997d-ae8d-4d4a-bf9f-629686b3e503",
+      "category": "Mindmap",
+      "description": "circle",
+      "content": "id((I am a circle))",
+      "sortingOrder": 4,
+      "isPinned": false
+    },
+    {
+      "id": "b5f7d8af-327a-4d6b-82da-f1ce98087fdc",
+      "category": "Mindmap",
+      "description": "bang",
+      "content": "id))I am a bang((",
+      "sortingOrder": 5,
+      "isPinned": false
+    },
+    {
+      "id": "ba6df8ba-a023-49ee-b94f-29a5811aacf9",
+      "category": "Mindmap",
+      "description": "cloud",
+      "content": "id)I am a cloud(",
+      "sortingOrder": 6,
+      "isPinned": false
+    },
+    {
+      "id": "eee59729-31ac-4df9-97d2-ce9e9947c56f",
+      "category": "Mindmap",
+      "description": "hexagon",
+      "content": "id{{I am a hexagon}}",
+      "sortingOrder": 7,
+      "isPinned": false
+    },
+    {
+      "id": "fcf023fa-f9c5-4b1b-82d1-878869f82dbe",
+      "category": "Mindmap",
+      "description": "default",
+      "content": "I am the default shape",
+      "sortingOrder": 8,
+      "isPinned": false
+    },
+    {
+      "id": "e0ada1fd-89ae-4eba-bd55-e47921d69a09",
+      "category": "Mindmap",
+      "description": "sample mindmap",
+      "content": "mindmap\n        root((mindmap))\n          Origins\n            Long history\n            Popularisation\n              British popular psychology author Tony Buzan\n          Research\n            On effectiveness<br/>and features\n            On Automatic creation\n              Uses\n                  Creative techniques\n                  Strategic planning\n                  Argument mapping\n          Tools\n            Pen and paper\n            Mermaid",
+      "sortingOrder": 9,
+      "isPinned": false
+    },
+    {
+      "id": "7283a6f1-4907-4579-8959-22f590039e50",
+      "category": "Timeline",
+      "description": "sample timeline",
+      "content": "timeline\n\t\ttitle History of Social Media Platform\n\t\t2002 : LinkedIn\n\t\t2004 : Facebook\n\t\t\t : Google\n\t\t2005 : Youtube\n\t\t2006 : Twitter",
+      "sortingOrder": 1,
+      "isPinned": false
+    },
+    {
+      "id": "59f71b1a-bcbe-4246-84d1-e9964e332de7",
+      "category": "Timeline",
+      "description": "timeline with grouping",
+      "content": "timeline\n\t\ttitle Timeline of Industrial Revolution\n\t\tsection 17th-20th century\n\t\t\tIndustry 1.0 : Machinery, Water power, Steam <br>power\n\t\t\tIndustry 2.0 : Electricity, Internal combustion engine, Mass production\n\t\t\tIndustry 3.0 : Electronics, Computers, Automation\n\t\tsection 21st century\n\t\t\tIndustry 4.0 : Internet, Robotics, Internet of Things\n\t\t\tIndustry 5.0 : Artificial intelligence, Big data,3D printing",
+      "sortingOrder": 2,
+      "isPinned": false
+    },
+    {
+      "id": "c20a986b-e7cc-449c-8c68-13e96bec8ce0",
+      "category": "Timeline",
+      "description": "timeline with Forest theme. see the docs for additional themes",
+      "content": "%%{init: { 'logLevel': 'debug', 'theme': 'forest' } }%%\n\t\ttimeline\n\t\t\ttitle History of Social Media Platform\n\t\t\t  2002 : LinkedIn\n\t\t\t  2004 : Facebook : Google\n\t\t\t  2005 : Youtube\n\t\t\t  2006 : Twitter\n\t\t\t  2007 : Tumblr\n\t\t\t  2008 : Instagram\n\t\t\t  2010 : Pinterest",
+      "sortingOrder": 3,
+      "isPinned": false
+    },
+    {
+      "id": "df063f86-8a38-4f93-aeda-82b0a7d5c4fb",
+      "category": "QuadrantChart",
+      "description": "sample quadrant chart",
+      "content": "quadrantChart\n\t\ttitle Reach and engagement of campaigns\n\t\tx-axis Low Reach --> High Reach\n\t\ty-axis Low Engagement --> High Engagement\n\t\tquadrant-1 We should expand\n\t\tquadrant-2 Need to promote\n\t\tquadrant-3 Re-evaluate\n\t\tquadrant-4 May be improved\n\t\tCampaign A: [0.3, 0.6]\n\t\tCampaign B: [0.45, 0.23]\n\t\tCampaign C: [0.57, 0.69]\n\t\tCampaign D: [0.78, 0.34]\n\t\tCampaign E: [0.40, 0.34]\n\t\tCampaign F: [0.35, 0.78]",
+      "sortingOrder": 1,
+      "isPinned": false
+    },
+    {
+      "id": "a120c5ec-c03b-4d0d-a3d7-0379b8094e38",
+      "category": "QuadrantChart",
+      "description": "themed quadrant chart",
+      "content": "%%{init: {\"quadrantChart\": {\"chartWidth\": 400, \"chartHeight\": 400}, \"themeVariables\": {\"quadrant1TextFill\": \"#ff0000\"} }}%%\n\t\tquadrantChart\n\t\t  x-axis Urgent --> Not Urgent\n\t\t  y-axis Not Important --> \"Important ❤\"\n\t\t  quadrant-1 Plan\n\t\t  quadrant-2 Do\n\t\t  quadrant-3 Delegate\n\t\t  quadrant-4 Delete",
+      "sortingOrder": 1,
+      "isPinned": false
+    },
+    {
+      "id": "7645b3ce-2cdf-4005-8956-09cec4bb537d",
+      "category": "C4Diagram",
+      "description": "sample C4 diagram (compatible with PlantUML)",
+      "content": "C4Context\n\t\ttitle System Context diagram for Internet Banking System\n\t\tEnterprise_Boundary(b0, \"BankBoundary0\") {\n\t\t  Person(customerA, \"Banking Customer A\", \"A customer of the bank, with personal bank accounts.\")\n\t\t  Person(customerB, \"Banking Customer B\")\n\t\t  Person_Ext(customerC, \"Banking Customer C\", \"desc\")\n  \n\t\t  Person(customerD, \"Banking Customer D\", \"A customer of the bank, <br/> with personal bank accounts.\")\n  \n\t\t  System(SystemAA, \"Internet Banking System\", \"Allows customers to view information about their bank accounts, and make payments.\")\n  \n\t\t  Enterprise_Boundary(b1, \"BankBoundary\") {\n  \n\t\t\tSystemDb_Ext(SystemE, \"Mainframe Banking System\", \"Stores all of the core banking information about customers, accounts, transactions, etc.\")\n  \n\t\t\tSystem_Boundary(b2, \"BankBoundary2\") {\n\t\t\t  System(SystemA, \"Banking System A\")\n\t\t\t  System(SystemB, \"Banking System B\", \"A system of the bank, with personal bank accounts. next line.\")\n\t\t\t}\n  \n\t\t\tSystem_Ext(SystemC, \"E-mail system\", \"The internal Microsoft Exchange e-mail system.\")\n\t\t\tSystemDb(SystemD, \"Banking System D Database\", \"A system of the bank, with personal bank accounts.\")\n  \n\t\t\tBoundary(b3, \"BankBoundary3\", \"boundary\") {\n\t\t\t  SystemQueue(SystemF, \"Banking System F Queue\", \"A system of the bank.\")\n\t\t\t  SystemQueue_Ext(SystemG, \"Banking System G Queue\", \"A system of the bank, with personal bank accounts.\")\n\t\t\t}\n\t\t  }\n\t\t}\n  \n\t\tBiRel(customerA, SystemAA, \"Uses\")\n\t\tBiRel(SystemAA, SystemE, \"Uses\")\n\t\tRel(SystemAA, SystemC, \"Sends e-mails\", \"SMTP\")\n\t\tRel(SystemC, customerA, \"Sends e-mails to\")\n  \n\t\tUpdateElementStyle(customerA, $fontColor=\"red\", $bgColor=\"grey\", $borderColor=\"red\")\n\t\tUpdateRelStyle(customerA, SystemAA, $textColor=\"blue\", $lineColor=\"blue\", $offsetX=\"5\")\n\t\tUpdateRelStyle(SystemAA, SystemE, $textColor=\"blue\", $lineColor=\"blue\", $offsetY=\"-10\")\n\t\tUpdateRelStyle(SystemAA, SystemC, $textColor=\"blue\", $lineColor=\"blue\", $offsetY=\"-40\", $offsetX=\"-50\")\n\t\tUpdateRelStyle(SystemC, customerA, $textColor=\"red\", $lineColor=\"red\", $offsetX=\"-50\", $offsetY=\"20\")\n  \n\t\tUpdateLayoutConfig($c4ShapeInRow=\"3\", $c4BoundaryInRow=\"1\")",
+      "sortingOrder": 1,
+      "isPinned": false
+    },
+    {
+      "id": "b51f4628-f89d-4e4a-a25e-7730064056d3",
+      "category": "SankeyDiagram",
+      "description": "",
+      "content": "sankey-beta\n        %% source,target,value\n        Electricity grid,Over generation / exports,104.453\n        Electricity grid,Heating and cooling - homes,113.726\n        Electricity grid,H2 conversion,27.14",
+      "sortingOrder": 0,
+      "isPinned": false
+    },
+    {
+      "id": "a4bc73ba-07d7-4c16-a6ea-0ae801becf05",
+      "category": "XyChart",
+      "description": "a sample XYChart diagram",
+      "content": "xychart-beta\n        title \"Sales Revenue\"\n        x-axis [jan, feb, mar, apr, may, jun, jul, aug, sep, oct, nov, dec]\n        y-axis \"Revenue (in $)\" 4000 --> 11000\n        bar [5000, 6000, 7500, 8200, 9500, 10500, 11000, 10200, 9200, 8500, 7000, 6000]\n        line [5000, 6000, 7500, 8200, 9500, 10500, 11000, 10200, 9200, 8500, 7000, 6000]",
+      "sortingOrder": 0,
+      "isPinned": false
+    },
+    {
+      "id": "a9183945-c60d-401d-9eee-1081fadb9f89",
+      "category": "Packet",
+      "description": "a sample packet diagram",
+      "content": "packet-beta\ntitle UDP Packet\n0-15: \"Source Port\"\n16-31: \"Destination Port\"\n32-47: \"Length\"\n48-63: \"Checksum\"\n64-95: \"Data (variable length)\"\n",
+      "sortingOrder": 0,
+      "isPinned": false
+    },
+    {
+      "id": "8aacc1e0-5661-41c3-9de1-317de24f9eea",
+      "category": "Kanban",
+      "description": "a sample kanban diagram",
+      "content": "kanban\n  Todo\n    [Create Documentation]\n    docs[Create Blog about the new diagram]\n  [In progress]\n    id6[Create renderer so that it works in all cases. We also add som extra text here for testing purposes. And some more just for the extra flare.]\n  id9[Ready for deploy]\n    id8[Design grammar]@{ assigned: 'knsv' }\n  id10[Ready for test]\n    id4[Create parsing tests]@{ ticket: MC-2038, assigned: 'K.Sveidqvist', priority: 'High' }\n    id66[last item]@{ priority: 'Very Low', assigned: 'knsv' }\n  id11[Done]\n    id5[define getData]\n    id2[Title of diagram is more than 100 chars when user duplicates diagram with 100 char]@{ ticket: MC-2036, priority: 'Very High'}\n    id3[Update DB function]@{ ticket: MC-2037, assigned: knsv, priority: 'High' }\n\n  id12[Can't reproduce]\n    id3[Weird flickering in Firefox]",
+      "sortingOrder": 0,
+      "isPinned": false
+    },
+    {
+      "id": "9cc9f323-c0d0-441a-90d1-1bf9d5f27cda",
+      "category": "Block",
+      "description": "a sample block diagram",
+      "content": "block-beta\ncolumns 1\n  db((\"DB\"))\n  blockArrowId6<[\"&nbsp;&nbsp;&nbsp;\"]>(down)\n  block:ID\n    A\n    B[\"A wide one in the middle\"]\n    C\n  end\n  space\n  D\n  ID --> D\n  C --> D\n  style B fill:#969,stroke:#333,stroke-width:4px\n",
+      "sortingOrder": 0,
+      "isPinned": false
+    },
+    {
+      "id": "e271a872-2466-41d7-b37f-cf16574f9c72",
+      "category": "Architecture",
+      "description": "a sample architecture diagram",
+      "content": "architecture-beta\n    group api(cloud)[API]\n\n    service db(database)[Database] in api\n    service disk1(disk)[Storage] in api\n    service disk2(disk)[Storage] in api\n    service server(server)[Server] in api\n\n    db:L -- R:server\n    disk1:T -- B:server\n    disk2:T -- B:db\n",
+      "sortingOrder": 0,
+      "isPinned": false
+    }
+  ],
+  "selectedCategory": "StateDiagram"
+}

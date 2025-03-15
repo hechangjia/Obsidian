@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-02-26",
+      "path": "040_Dairy/2025-02-26.md"
+    },
+    {
+      "basename": "dictionary",
+      "path": "dictionary.md"
+    },
+    {
       "basename": "01. 计算机早期历史-Early Computing.ass",
       "path": "Reference-Book/(字幕)全40集中英字幕文本/01. 计算机早期历史-Early Computing.ass.md"
+    },
+    {
+      "basename": "reviewdatabase",
+      "path": "reviewdatabase.md"
+    },
+    {
+      "basename": "Markwhen 3-9-2025 15.52.06",
+      "path": "Markwhen/Markwhen 3-9-2025 15.52.06.mw"
     },
     {
       "basename": "2025-03-01",
@@ -69,10 +85,6 @@
       "path": "020_Attachment/PDF资料/GNU_make.pdf"
     },
     {
-      "basename": "dictionary",
-      "path": "dictionary.md"
-    },
-    {
       "basename": "学期总结大纲",
       "path": "学期总结大纲.canvas"
     },
@@ -133,10 +145,6 @@
       "path": "DeepLearning/残差神经网络 - 维基百科，自由的百科全书.md"
     },
     {
-      "basename": "2025-02-26",
-      "path": "040_Dairy/2025-02-26.md"
-    },
-    {
       "basename": "看板",
       "path": "010_FileBox/看板.md"
     },
@@ -187,18 +195,6 @@
     {
       "basename": "Sources - Free Will",
       "path": "060Clippings/Sources - Free Will.md"
-    },
-    {
-      "basename": "Habit Tracker Calendar",
-      "path": "040_Dairy/Habit Tracker Calendar.md"
-    },
-    {
-      "basename": "reviewdatabase",
-      "path": "reviewdatabase.md"
-    },
-    {
-      "basename": "W3Schools.com",
-      "path": "060Clippings/编程/Git/W3Schools.com.md"
     }
   ],
   "omittedPaths": [],
