@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "2025-02-26",
-      "path": "040_Dairy/2025-02-26.md"
-    },
-    {
       "basename": "dictionary",
       "path": "dictionary.md"
     },
     {
+      "basename": "用随机梯度下降来优化人生",
+      "path": "用随机梯度下降来优化人生.md"
+    },
+    {
+      "basename": "random",
+      "path": "020_Attachment/图片/random.avif"
+    },
+    {
       "basename": "01. 计算机早期历史-Early Computing.ass",
       "path": "Reference-Book/(字幕)全40集中英字幕文本/01. 计算机早期历史-Early Computing.ass.md"
+    },
+    {
+      "basename": "2025-02-26",
+      "path": "040_Dairy/2025-02-26.md"
     },
     {
       "basename": "reviewdatabase",
@@ -191,10 +199,6 @@
     {
       "basename": "Pasted image 20250225114651",
       "path": "020_Attachment/Pasted image 20250225114651.png"
-    },
-    {
-      "basename": "Sources - Free Will",
-      "path": "060Clippings/Sources - Free Will.md"
     }
   ],
   "omittedPaths": [],

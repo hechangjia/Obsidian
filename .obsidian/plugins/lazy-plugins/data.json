@@ -157,6 +157,12 @@
       },
       "mermaid-tools": {
         "startupType": "disabled"
+      },
+      "cmenu-plugin": {
+        "startupType": "instant"
+      },
+      "obsidian-mkdocs-publisher": {
+        "startupType": "instant"
       }
     }
   }

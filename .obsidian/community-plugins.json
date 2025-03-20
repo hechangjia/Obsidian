@@ -28,5 +28,6 @@
   "file-tree-alternative",
   "editing-toolbar",
   "markwhen",
-  "cmenu-plugin"
+  "cmenu-plugin",
+  "obsidian-mkdocs-publisher"
 ]

@@ -111,7 +111,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "040_Dairy/2025-02-26.md",
+                "file": "dictionary.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -126,7 +126,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-02-26"
+              "title": "dictionary"
             }
           }
         ],
@@ -193,8 +193,7 @@
               "title": "File Tree"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -275,8 +274,8 @@
             "state": {
               "type": "mermaid-toolbar-view",
               "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           }
         ]
@@ -405,17 +404,19 @@
       "obsidian-projects:打开项目": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
       "markwhen:Create new Markwhen file": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "75636bf28e481c04",
   "lastOpenFiles": [
+    "用随机梯度下降来优化人生.md",
+    "020_Attachment/图片/random.avif",
+    "Reference-Book/(字幕)全40集中英字幕文本/01. 计算机早期历史-Early Computing.ass.md",
+    "020_Attachment/图片/random.avif.crdownload",
+    "040_Dairy/2025-02-26.md",
     "dictionary.md",
     "vaswaniAttentionAllYou2023.md",
     "010_FileBox/mermaid.md",
-    "Reference-Book/(字幕)全40集中英字幕文本/01. 计算机早期历史-Early Computing.ass.md",
     "reviewdatabase.md",
     "Excalidraw/Drawing 2025-03-10 18.02.54.excalidraw.md",
     "Markwhen/Markwhen 3-9-2025 15.52.06.mw",
@@ -427,7 +428,6 @@
     "Reference-Book/(字幕)全40集中英字幕文本/36. 自然语言处理-Natural Language Processing.ass.txt",
     "Reference-Book/(字幕)全40集中英字幕文本/35. 计算机视觉-Computer Vision.ass.txt",
     "Reference-Book/(字幕)全40集中英字幕文本/34. 机器学习&人工智能-Machine Learning & Artificial Intelligence.ass.txt",
-    "Reference-Book/(字幕)全40集中英字幕文本/33. 加密-Cryptography.ass.txt",
     "040_Dairy/2025-03-01.md",
     "030_Templater/日记模板.md",
     "Homepage.md",
@@ -451,14 +451,10 @@
     "060Clippings/编程/Regular-Expression/Regular expression - Wikipedia.md",
     "060Clippings/missing-semester/课程概览与 shell.md",
     "Python学习笔记/Python中pip的作用.md",
-    "Python学习笔记/Python中一些函数的用法.md",
-    "Python学习笔记/Python中列表,集合,字典,元组的异同.md",
-    "Python学习笔记/Python小结.md",
     "020_Attachment/Pasted image 20250225114651.png",
     "020_Attachment/图片/22ADBC6EF3299889AFBC3C2C162AC682.png",
     "020_Attachment/图片/lovley.png",
     "020_Attachment/图片/beamer图片1.png",
-    "020_Attachment/图片/雨疏风骤.png",
     "010_FileBox/如梦令--期末.canvas",
     "未命名.canvas",
     "王者荣耀经验总结.canvas"
